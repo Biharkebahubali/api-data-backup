@@ -18,33 +18,7 @@
       "createdAt": "2026-07-13T15:28:31.869Z"
     }
   ],
-  "apiKeys": [
-    {
-      "id": "eecc0aa9-d7b4-45ad-b641-5b190a46c5b5",
-      "apiKey": "bihari",
-      "name": "JSM OWNER",
-      "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
-      "usedCredits": 0,
-      "unlimited": true,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": true,
-      "devices": [
-        {
-          "deviceId": "6cc1c45a7dc8b4d0",
-          "deviceName": "Unknown",
-          "ip": "157.35.27.40",
-          "firstSeen": "2026-07-13T15:29:08.011Z",
-          "lastSeen": "2026-07-13T15:29:08.011Z"
-        }
-      ],
-      "blockedIPs": [],
-      "expiresAt": "2026-09-07T15:28:56.222Z",
-      "createdAt": "2026-07-13T15:28:56.222Z"
-    }
-  ],
+  "apiKeys": [],
   "logs": [
     {
       "timestamp": "2026-07-13T15:29:08.011Z",
