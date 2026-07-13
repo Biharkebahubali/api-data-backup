@@ -16,6 +16,14 @@
       "authHeader": "",
       "queryParams": "key=Mouktik5911",
       "createdAt": "2026-07-13T15:28:31.869Z"
+    },
+    {
+      "id": "0c5d4f5a-9315-43be-8db9-f3e00b557e49",
+      "name": "VEHICLE INFORMATION",
+      "baseUrl": "https://api.subhxcosmo.in/api",
+      "authHeader": "",
+      "queryParams": "key=Mouktik5911",
+      "createdAt": "2026-07-13T15:41:31.141Z"
     }
   ],
   "apiKeys": [
