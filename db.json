@@ -7,5 +7,18 @@
     "upiName": "Vikram Kumar",
     "adminChatId": "5207471711",
     "otpLoginEnabled": true
-  }
+  },
+  "realAPIs": [
+    {
+      "id": "a06f5e20-0780-4daf-989d-ce278da58f30",
+      "name": "Number Information",
+      "baseUrl": "https://api.subhxcosmo.in/api",
+      "authHeader": "",
+      "queryParams": "key=Mouktik5911",
+      "createdAt": "2026-07-13T15:28:31.869Z"
+    }
+  ],
+  "apiKeys": [],
+  "logs": [],
+  "notifications": []
 }
