@@ -43,23 +43,6 @@
       "blockedIPs": [],
       "expiresAt": "2026-09-07T15:28:56.222Z",
       "createdAt": "2026-07-13T15:28:56.222Z"
-    },
-    {
-      "id": "3ee56ca7-af51-466d-9fef-1fbff1806cd0",
-      "apiKey": "dexsam",
-      "name": "sam testing",
-      "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
-      "usedCredits": 0,
-      "unlimited": true,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": true,
-      "devices": [],
-      "blockedIPs": [],
-      "expiresAt": "2026-08-12T15:35:26.653Z",
-      "createdAt": "2026-07-13T15:35:26.653Z"
     }
   ],
   "logs": [
