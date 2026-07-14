@@ -66,6 +66,23 @@
       "blockedIPs": [],
       "expiresAt": "2026-09-01T15:39:56.306Z",
       "createdAt": "2026-07-13T15:39:56.306Z"
+    },
+    {
+      "id": "2e69f447-912c-4d1a-bf68-544c06cbd371",
+      "apiKey": "testing1",
+      "name": "TESTING API",
+      "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
+      "totalCredits": 20,
+      "creditsPerRequest": 1,
+      "usedCredits": 0,
+      "unlimited": false,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": "2026-07-15T08:52:09.578Z",
+      "createdAt": "2026-07-14T08:52:09.578Z"
     }
   ],
   "logs": [
