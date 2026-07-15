@@ -104,10 +104,10 @@
       "apiKey": "darksk",
       "name": "PREMIUM",
       "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
+      "totalCredits": 0,
+      "creditsPerRequest": 1,
       "usedCredits": 0,
-      "unlimited": true,
+      "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
@@ -128,7 +128,7 @@
         }
       ],
       "blockedIPs": [],
-      "expiresAt": "2026-07-16T12:31:41.725Z",
+      "expiresAt": "2026-07-16T12:31:00.000Z",
       "createdAt": "2026-07-15T12:31:41.725Z"
     }
   ],
