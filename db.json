@@ -98,31 +98,6 @@
       "blockedIPs": [],
       "expiresAt": "2026-07-15T12:30:00.000Z",
       "createdAt": "2026-07-14T08:52:09.578Z"
-    },
-    {
-      "id": "637257e2-55bd-4b62-8448-c0a3a59c4fe4",
-      "apiKey": "darksk",
-      "name": "Primium",
-      "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
-      "totalCredits": 5,
-      "creditsPerRequest": 1,
-      "usedCredits": 0,
-      "unlimited": false,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": false,
-      "devices": [
-        {
-          "deviceId": "f62a2977a5e7d733",
-          "deviceName": "Unknown",
-          "ip": "157.35.26.41",
-          "firstSeen": "2026-07-15T12:35:09.971Z",
-          "lastSeen": "2026-07-15T12:35:50.564Z"
-        }
-      ],
-      "blockedIPs": [],
-      "expiresAt": "2026-07-25T12:35:05.238Z",
-      "createdAt": "2026-07-15T12:35:05.238Z"
     }
   ],
   "logs": [
