@@ -106,7 +106,7 @@
       "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
       "totalCredits": 5,
       "creditsPerRequest": 1,
-      "usedCredits": 5,
+      "usedCredits": 0,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
@@ -117,7 +117,7 @@
           "deviceName": "Unknown",
           "ip": "157.35.26.41",
           "firstSeen": "2026-07-15T12:35:09.971Z",
-          "lastSeen": "2026-07-15T12:35:47.115Z"
+          "lastSeen": "2026-07-15T12:35:50.564Z"
         }
       ],
       "blockedIPs": [],
