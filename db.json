@@ -78,7 +78,7 @@
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
-      "active": true,
+      "active": false,
       "devices": [
         {
           "deviceId": "73bf4e96562ccfe6",
@@ -98,6 +98,23 @@
       "blockedIPs": [],
       "expiresAt": "2026-07-15T12:30:00.000Z",
       "createdAt": "2026-07-14T08:52:09.578Z"
+    },
+    {
+      "id": "63b5954f-1b5d-4d0d-96f0-03842c84d6e7",
+      "apiKey": "darksk",
+      "name": "PREMIUM",
+      "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
+      "totalCredits": -1,
+      "creditsPerRequest": 0,
+      "usedCredits": 0,
+      "unlimited": true,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": "2026-07-16T12:31:41.725Z",
+      "createdAt": "2026-07-15T12:31:41.725Z"
     }
   ],
   "logs": [
