@@ -81,12 +81,27 @@
       "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
       "totalCredits": 10,
       "creditsPerRequest": 1,
-      "usedCredits": 0,
+      "usedCredits": 2,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "8fdaa175bbb91660",
+          "deviceName": "Unknown",
+          "ip": "149.154.161.220",
+          "firstSeen": "2026-07-16T08:03:40.105Z",
+          "lastSeen": "2026-07-16T08:03:40.105Z"
+        },
+        {
+          "deviceId": "4c9e326d0d498597",
+          "deviceName": "Unknown",
+          "ip": "157.35.24.124",
+          "firstSeen": "2026-07-16T08:03:40.275Z",
+          "lastSeen": "2026-07-16T08:03:40.275Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": "2026-07-17T09:24:00.000Z",
       "createdAt": "2026-07-16T08:02:08.036Z"
@@ -299,6 +314,28 @@
       "path": "",
       "creditsUsed": 0,
       "remainingCredits": "Unlimited",
+      "ip": "157.35.24.124",
+      "deviceId": "4c9e326d0d498597"
+    },
+    {
+      "timestamp": "2026-07-16T08:03:40.105Z",
+      "apiKeyId": "db4d85a7-bbdb-4453-abd4-caecd65877aa",
+      "apiKey": "demo11",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "9",
+      "ip": "149.154.161.220",
+      "deviceId": "8fdaa175bbb91660"
+    },
+    {
+      "timestamp": "2026-07-16T08:03:40.275Z",
+      "apiKeyId": "db4d85a7-bbdb-4453-abd4-caecd65877aa",
+      "apiKey": "demo11",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "8",
       "ip": "157.35.24.124",
       "deviceId": "4c9e326d0d498597"
     }
