@@ -81,7 +81,7 @@
       "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
       "totalCredits": 10,
       "creditsPerRequest": 1,
-      "usedCredits": 1,
+      "usedCredits": 0,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
