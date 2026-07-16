@@ -66,6 +66,23 @@
       "blockedIPs": [],
       "expiresAt": "2026-09-01T15:39:56.306Z",
       "createdAt": "2026-07-13T15:39:56.306Z"
+    },
+    {
+      "id": "db4d85a7-bbdb-4453-abd4-caecd65877aa",
+      "apiKey": "demo11",
+      "name": "BEGINNER",
+      "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
+      "totalCredits": 10,
+      "creditsPerRequest": 1,
+      "usedCredits": 0,
+      "unlimited": false,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": "2026-07-17T08:02:08.036Z",
+      "createdAt": "2026-07-16T08:02:08.036Z"
     }
   ],
   "logs": [
