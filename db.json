@@ -99,7 +99,7 @@
       "unlimited": true,
       "maxDevices": 999,
       "unlimitedDevices": true,
-      "active": false,
+      "active": true,
       "devices": [
         {
           "deviceId": "8fdaa175bbb91660",
