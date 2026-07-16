@@ -81,7 +81,7 @@
       "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
       "totalCredits": 10,
       "creditsPerRequest": 1,
-      "usedCredits": 0,
+      "usedCredits": 1,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
@@ -100,6 +100,13 @@
           "ip": "157.35.24.124",
           "firstSeen": "2026-07-16T08:03:40.275Z",
           "lastSeen": "2026-07-16T08:04:46.948Z"
+        },
+        {
+          "deviceId": "fbcafe5d5149229f",
+          "deviceName": "Unknown",
+          "ip": "149.154.161.231",
+          "firstSeen": "2026-07-16T08:08:30.323Z",
+          "lastSeen": "2026-07-16T08:08:30.323Z"
         }
       ],
       "blockedIPs": [],
@@ -107,7 +114,19 @@
       "createdAt": "2026-07-16T08:02:08.036Z"
     }
   ],
-  "logs": [],
+  "logs": [
+    {
+      "timestamp": "2026-07-16T08:08:30.323Z",
+      "apiKeyId": "db4d85a7-bbdb-4453-abd4-caecd65877aa",
+      "apiKey": "demo11",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "9",
+      "ip": "149.154.161.231",
+      "deviceId": "fbcafe5d5149229f"
+    }
+  ],
   "notifications": [
     {
       "id": "3e2164f2-41f6-4551-9083-118e801491e9",
