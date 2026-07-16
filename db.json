@@ -351,5 +351,15 @@
       "deviceId": "4c9e326d0d498597"
     }
   ],
-  "notifications": []
+  "notifications": [
+    {
+      "id": "3e2164f2-41f6-4551-9083-118e801491e9",
+      "targetKeyId": "db4d85a7-bbdb-4453-abd4-caecd65877aa",
+      "targetName": "BEGINNER",
+      "title": "DARK SK",
+      "message": "Kya brother ",
+      "timestamp": "2026-07-16T08:04:31.723Z",
+      "read": false
+    }
+  ]
 }
