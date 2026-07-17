@@ -360,7 +360,7 @@
           "deviceName": "Unknown",
           "ip": "106.192.95.254",
           "firstSeen": "2026-07-17T09:11:14.633Z",
-          "lastSeen": "2026-07-17T09:11:25.201Z"
+          "lastSeen": "2026-07-17T09:11:26.308Z"
         }
       ],
       "blockedIPs": [],
@@ -1163,6 +1163,39 @@
     },
     {
       "timestamp": "2026-07-17T09:11:25.201Z",
+      "apiKeyId": "a9a39b78-b729-411c-b800-dac33fb5e6f8",
+      "apiKey": "Rx-100",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "106.192.95.254",
+      "deviceId": "14a49fbc427be71e"
+    },
+    {
+      "timestamp": "2026-07-17T09:11:25.716Z",
+      "apiKeyId": "a9a39b78-b729-411c-b800-dac33fb5e6f8",
+      "apiKey": "Rx-100",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "106.192.95.254",
+      "deviceId": "14a49fbc427be71e"
+    },
+    {
+      "timestamp": "2026-07-17T09:11:25.838Z",
+      "apiKeyId": "a9a39b78-b729-411c-b800-dac33fb5e6f8",
+      "apiKey": "Rx-100",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "106.192.95.254",
+      "deviceId": "14a49fbc427be71e"
+    },
+    {
+      "timestamp": "2026-07-17T09:11:26.308Z",
       "apiKeyId": "a9a39b78-b729-411c-b800-dac33fb5e6f8",
       "apiKey": "Rx-100",
       "method": "GET",
