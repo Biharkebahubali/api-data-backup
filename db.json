@@ -341,6 +341,23 @@
       "blockedIPs": [],
       "expiresAt": "2026-07-16T18:30:00.000Z",
       "createdAt": "2026-07-16T08:02:08.036Z"
+    },
+    {
+      "id": "a9a39b78-b729-411c-b800-dac33fb5e6f8",
+      "apiKey": "Rx-100",
+      "name": "Demo Plan Ajoy",
+      "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
+      "totalCredits": -1,
+      "creditsPerRequest": 0,
+      "usedCredits": 0,
+      "unlimited": true,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": "2027-07-17T09:09:06.338Z",
+      "createdAt": "2026-07-17T09:09:06.338Z"
     }
   ],
   "logs": [
