@@ -354,7 +354,15 @@
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "14a49fbc427be71e",
+          "deviceName": "Unknown",
+          "ip": "106.192.95.254",
+          "firstSeen": "2026-07-17T09:11:14.633Z",
+          "lastSeen": "2026-07-17T09:11:14.633Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": "2027-07-17T09:09:06.338Z",
       "createdAt": "2026-07-17T09:09:06.338Z"
@@ -1141,6 +1149,17 @@
       "remainingCredits": "Unlimited",
       "ip": "217.216.103.25",
       "deviceId": "7979efe936b999db"
+    },
+    {
+      "timestamp": "2026-07-17T09:11:14.633Z",
+      "apiKeyId": "a9a39b78-b729-411c-b800-dac33fb5e6f8",
+      "apiKey": "Rx-100",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "106.192.95.254",
+      "deviceId": "14a49fbc427be71e"
     }
   ],
   "notifications": [
