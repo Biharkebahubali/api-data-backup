@@ -79,7 +79,7 @@
           "deviceName": "Unknown",
           "ip": "217.216.103.25",
           "firstSeen": "2026-07-17T04:47:04.363Z",
-          "lastSeen": "2026-07-17T04:48:26.826Z"
+          "lastSeen": "2026-07-17T04:53:21.000Z"
         },
         {
           "deviceId": "91bbb25d850c8468",
@@ -1105,6 +1105,17 @@
     },
     {
       "timestamp": "2026-07-17T04:48:26.826Z",
+      "apiKeyId": "b7b259bd-3a4d-4e49-b249-b2997b38e043",
+      "apiKey": "bihari",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "217.216.103.25",
+      "deviceId": "7979efe936b999db"
+    },
+    {
+      "timestamp": "2026-07-17T04:53:21.000Z",
       "apiKeyId": "b7b259bd-3a4d-4e49-b249-b2997b38e043",
       "apiKey": "bihari",
       "method": "GET",
