@@ -8,7 +8,16 @@
     "adminChatId": "5207471711",
     "otpLoginEnabled": true
   },
-  "realAPIs": [],
+  "realAPIs": [
+    {
+      "id": "fd9c0eeb-7d71-4a52-9ad5-1322ae1c09d7",
+      "name": "Number Information",
+      "baseUrl": "https://infoapi.animehub.network/api/numinfo",
+      "authHeader": "",
+      "queryParams": "num=",
+      "createdAt": "2026-07-25T05:52:28.372Z"
+    }
+  ],
   "apiKeys": [
     {
       "id": "db4d85a7-bbdb-4453-abd4-caecd65877aa",
