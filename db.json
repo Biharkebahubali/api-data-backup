@@ -1,13 +1,4 @@
 {
-  "settings": {
-    "owner": "@biharpleasehelpme_bot",
-    "ownerContact": "@code_breaker",
-    "poweredBy": "@bihariosiant_bot",
-    "upiId": "Contact Admin",
-    "upiName": "Vikram Kumar",
-    "adminChatId": "5207471711",
-    "otpLoginEnabled": true
-  },
   "realAPIs": [
     {
       "id": "9b4c5437-c740-4d28-a9f4-708f0f3428d3",
@@ -612,5 +603,21 @@
       "timestamp": "2026-07-16T08:04:31.723Z",
       "read": false
     }
-  ]
+  ],
+  "sessions": {
+    "ccf89009-31e7-4d0b-8514-54dbf11ee7f5": {
+      "loggedIn": true,
+      "time": 1784988031453,
+      "lastActive": 1784988031453
+    }
+  },
+  "settings": {
+    "owner": "@biharpleasehelpme_bot",
+    "ownerContact": "@code_breaker",
+    "poweredBy": "@bihariosiant_bot",
+    "upiId": "Contact Admin",
+    "upiName": "Vikram Kumar",
+    "adminChatId": "5207471711",
+    "otpLoginEnabled": true
+  }
 }
