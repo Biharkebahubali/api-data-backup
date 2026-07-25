@@ -58,33 +58,7 @@
       "createdAt": "2026-07-25T12:48:57.587Z"
     }
   ],
-  "apiKeys": [
-    {
-      "id": "a9a39b78-b729-411c-b800-dac33fb5e6f8",
-      "apiKey": "Rx-100",
-      "name": "Demo Plan Ajoy",
-      "realApiId": "a06f5e20-0780-4daf-989d-ce278da58f30",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
-      "usedCredits": 0,
-      "unlimited": true,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": true,
-      "devices": [
-        {
-          "deviceId": "14a49fbc427be71e",
-          "deviceName": "Unknown",
-          "ip": "106.192.95.254",
-          "firstSeen": "2026-07-17T09:11:14.633Z",
-          "lastSeen": "2026-07-17T09:11:28.221Z"
-        }
-      ],
-      "blockedIPs": [],
-      "expiresAt": "2027-07-17T09:09:06.338Z",
-      "createdAt": "2026-07-17T09:09:06.338Z"
-    }
-  ],
+  "apiKeys": [],
   "logs": [
     {
       "timestamp": "2026-07-17T18:28:48.199Z",
