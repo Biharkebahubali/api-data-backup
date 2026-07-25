@@ -102,6 +102,23 @@
       "blockedIPs": [],
       "expiresAt": "2026-09-03T13:34:50.192Z",
       "createdAt": "2026-07-25T13:34:50.192Z"
+    },
+    {
+      "id": "951e3d59-f5d6-4119-b4c5-7bcda97e4b90",
+      "apiKey": "bihari1",
+      "name": "Premium",
+      "realApiId": "bbc4ea46-574a-4540-ba55-e3cfda505de9",
+      "totalCredits": -1,
+      "creditsPerRequest": 0,
+      "usedCredits": 0,
+      "unlimited": true,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": "2026-09-03T14:09:50.596Z",
+      "createdAt": "2026-07-25T14:09:50.596Z"
     }
   ],
   "logs": [
@@ -740,7 +757,7 @@
     "0200403d-a8a3-406a-a748-18b8c72b3f38": {
       "loggedIn": true,
       "time": 1784988052930,
-      "lastActive": 1784988386244
+      "lastActive": 1784988590595
     }
   },
   "settings": {
