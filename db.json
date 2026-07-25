@@ -172,7 +172,7 @@
       "apiKey": "11",
       "name": "TEST API",
       "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
-      "totalCredits": 2,
+      "totalCredits": 0,
       "creditsPerRequest": 0,
       "usedCredits": 0,
       "unlimited": false,
@@ -1043,7 +1043,7 @@
     "094261ff-7657-410b-956d-5a2efcfcb206": {
       "loggedIn": true,
       "time": 1785005799579,
-      "lastActive": 1785006364828
+      "lastActive": 1785006412918
     }
   },
   "settings": {
