@@ -71,7 +71,15 @@
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "0dd8ff270ff51b0b",
+          "deviceName": "Unknown",
+          "ip": "157.35.44.53",
+          "firstSeen": "2026-07-25T12:51:00.843Z",
+          "lastSeen": "2026-07-25T12:51:00.843Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": "2026-09-03T12:50:41.855Z",
       "createdAt": "2026-07-25T12:50:41.855Z"
@@ -517,6 +525,17 @@
       "remainingCredits": "Unlimited",
       "ip": "157.42.16.37",
       "deviceId": "cafe0de0b217cfda"
+    },
+    {
+      "timestamp": "2026-07-25T12:51:00.843Z",
+      "apiKeyId": "de29d81e-86c7-4b3e-80ce-f5ec6215e926",
+      "apiKey": "bihari",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "157.35.44.53",
+      "deviceId": "0dd8ff270ff51b0b"
     }
   ],
   "notifications": [
