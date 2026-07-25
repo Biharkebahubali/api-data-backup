@@ -50,14 +50,6 @@
       "createdAt": "2026-07-25T12:48:57.587Z"
     },
     {
-      "id": "87f14844-db11-442d-ae6f-bb52913400d2",
-      "name": "Number Information",
-      "baseUrl": "https://infoapi.animehub.network/api/numinfo",
-      "authHeader": "",
-      "queryParams": "num=",
-      "createdAt": "2026-07-25T13:14:33.705Z"
-    },
-    {
       "id": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
       "name": "Number Information",
       "baseUrl": "https://infoapi.animehub.network/api/numinfo",
