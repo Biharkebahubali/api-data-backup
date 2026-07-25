@@ -16,6 +16,14 @@
       "authHeader": "",
       "queryParams": "key=Mouktik5911",
       "createdAt": "2026-07-13T15:28:31.869Z"
+    },
+    {
+      "id": "901125f7-b1d3-46ac-8c87-0b0a036664b4",
+      "name": "Number Information",
+      "baseUrl": "https://infoapi.animehub.network/api",
+      "authHeader": "",
+      "queryParams": "",
+      "createdAt": "2026-07-25T05:41:52.026Z"
     }
   ],
   "apiKeys": [
