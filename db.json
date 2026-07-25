@@ -58,7 +58,25 @@
       "createdAt": "2026-07-25T12:48:57.587Z"
     }
   ],
-  "apiKeys": [],
+  "apiKeys": [
+    {
+      "id": "de29d81e-86c7-4b3e-80ce-f5ec6215e926",
+      "apiKey": "bihari",
+      "name": "Premium",
+      "realApiId": "48ea9216-8049-488f-a5a1-f658f4b6ccb3",
+      "totalCredits": -1,
+      "creditsPerRequest": 0,
+      "usedCredits": 0,
+      "unlimited": true,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": "2026-09-03T12:50:41.855Z",
+      "createdAt": "2026-07-25T12:50:41.855Z"
+    }
+  ],
   "logs": [
     {
       "timestamp": "2026-07-17T18:28:48.199Z",
