@@ -176,7 +176,7 @@
       "creditsPerRequest": 0,
       "usedCredits": 0,
       "unlimited": false,
-      "maxDevices": 999,
+      "maxDevices": 1,
       "unlimitedDevices": false,
       "active": true,
       "devices": [
@@ -1055,7 +1055,7 @@
     "094261ff-7657-410b-956d-5a2efcfcb206": {
       "loggedIn": true,
       "time": 1785005799579,
-      "lastActive": 1785006414413
+      "lastActive": 1785006435786
     }
   },
   "settings": {
