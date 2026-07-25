@@ -24,6 +24,14 @@
       "authHeader": "",
       "queryParams": "aadhar=",
       "createdAt": "2026-07-25T12:46:24.806Z"
+    },
+    {
+      "id": "bbc4ea46-574a-4540-ba55-e3cfda505de9",
+      "name": "Telegram API\"",
+      "baseUrl": "https://infoapi.animehub.network/api/tgnum",
+      "authHeader": "",
+      "queryParams": "id=",
+      "createdAt": "2026-07-25T12:47:10.372Z"
     }
   ],
   "apiKeys": [
