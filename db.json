@@ -47,6 +47,14 @@
       "authHeader": "",
       "queryParams": "num=",
       "createdAt": "2026-07-25T13:33:45.099Z"
+    },
+    {
+      "id": "4be5397f-a778-47e3-9d7b-4f40a79da313",
+      "name": "Free Fire Like",
+      "baseUrl": "https://r-bota-20-like-api.co08.art/like",
+      "authHeader": "",
+      "queryParams": "uid=",
+      "createdAt": "2026-07-25T18:58:59.784Z"
     }
   ],
   "apiKeys": [
@@ -909,7 +917,7 @@
     "094261ff-7657-410b-956d-5a2efcfcb206": {
       "loggedIn": true,
       "time": 1785005799579,
-      "lastActive": 1785005803383
+      "lastActive": 1785005939782
     }
   },
   "settings": {
