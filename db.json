@@ -68,7 +68,7 @@
           "deviceName": "Unknown",
           "ip": "157.35.44.53",
           "firstSeen": "2026-07-25T13:35:17.729Z",
-          "lastSeen": "2026-07-25T13:35:17.729Z"
+          "lastSeen": "2026-07-25T14:04:06.976Z"
         },
         {
           "deviceId": "a476ad29caba8bb8",
@@ -634,6 +634,18 @@
       "ip": "152.59.144.233",
       "deviceId": "bd33616f39bb1bac",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-25T14:04:06.976Z",
+      "apiKeyId": "164fd7af-75a5-477c-90e9-0ec155bf2ba0",
+      "apiKey": "bihari",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "157.35.44.53",
+      "deviceId": "0dd8ff270ff51b0b",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
     }
   ],
   "notifications": [
