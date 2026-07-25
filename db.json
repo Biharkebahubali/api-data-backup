@@ -149,6 +149,23 @@
       "blockedIPs": [],
       "expiresAt": null,
       "createdAt": "2026-07-25T14:10:37.811Z"
+    },
+    {
+      "id": "76ad3a94-935f-49f7-8fc0-c013b0538076",
+      "apiKey": "biharilike",
+      "name": "Premium",
+      "realApiId": "4be5397f-a778-47e3-9d7b-4f40a79da313",
+      "totalCredits": -1,
+      "creditsPerRequest": 0,
+      "usedCredits": 0,
+      "unlimited": true,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": "2026-08-09T18:59:43.314Z",
+      "createdAt": "2026-07-25T18:59:43.314Z"
     }
   ],
   "logs": [
@@ -917,7 +934,7 @@
     "094261ff-7657-410b-956d-5a2efcfcb206": {
       "loggedIn": true,
       "time": 1785005799579,
-      "lastActive": 1785005941466
+      "lastActive": 1785005983312
     }
   },
   "settings": {
