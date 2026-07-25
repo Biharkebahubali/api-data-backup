@@ -60,23 +60,6 @@
   ],
   "apiKeys": [
     {
-      "id": "af7ecf10-4e03-4a1c-bef0-32369d3a0d0f",
-      "apiKey": "da6df316-5f96-4fc7-a5dd-1f0cdefe407f",
-      "name": "Premium",
-      "realApiId": "87f14844-db11-442d-ae6f-bb52913400d2",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
-      "usedCredits": 0,
-      "unlimited": true,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": true,
-      "devices": [],
-      "blockedIPs": [],
-      "expiresAt": "2026-09-03T13:15:15.513Z",
-      "createdAt": "2026-07-25T13:15:15.513Z"
-    },
-    {
       "id": "e2d49e65-6a46-46eb-8047-744e9d8a57b7",
       "apiKey": "bihari1",
       "name": "Premium",
