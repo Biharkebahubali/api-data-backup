@@ -40,6 +40,14 @@
       "authHeader": "",
       "queryParams": "q=",
       "createdAt": "2026-07-25T12:47:52.038Z"
+    },
+    {
+      "id": "0d2f66ba-92a6-47d7-90e5-28df6c11ed12",
+      "name": "Stats API",
+      "baseUrl": "https://infoapi.animehub.network/api/stats",
+      "authHeader": "",
+      "queryParams": "",
+      "createdAt": "2026-07-25T12:48:27.499Z"
     }
   ],
   "apiKeys": [
