@@ -10,14 +10,6 @@
   },
   "realAPIs": [
     {
-      "id": "48ea9216-8049-488f-a5a1-f658f4b6ccb3",
-      "name": "Number Information",
-      "baseUrl": "https://infoapi.animehub.network/api/numinfo",
-      "authHeader": "",
-      "queryParams": "num=",
-      "createdAt": "2026-07-25T12:45:39.546Z"
-    },
-    {
       "id": "9b4c5437-c740-4d28-a9f4-708f0f3428d3",
       "name": "Aadhar API",
       "baseUrl": "https://infoapi.animehub.network/api/aadhar",
