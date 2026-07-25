@@ -16,6 +16,14 @@
       "authHeader": "",
       "queryParams": "num=",
       "createdAt": "2026-07-25T05:52:28.372Z"
+    },
+    {
+      "id": "48ea9216-8049-488f-a5a1-f658f4b6ccb3",
+      "name": "Number Information",
+      "baseUrl": "https://infoapi.animehub.network/api/numinfo",
+      "authHeader": "",
+      "queryParams": "num=",
+      "createdAt": "2026-07-25T12:45:39.546Z"
     }
   ],
   "apiKeys": [
