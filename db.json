@@ -232,12 +232,12 @@
       "apiKey": "yest",
       "name": "TEST API",
       "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
-      "totalCredits": 5,
+      "totalCredits": 10000,
       "creditsPerRequest": 1,
       "usedCredits": 1,
       "unlimited": false,
       "maxDevices": 999,
-      "unlimitedDevices": true,
+      "unlimitedDevices": false,
       "active": true,
       "devices": [
         {
@@ -2519,7 +2519,7 @@
     "7a05ea2d-22ca-4727-b22a-dbf4427a2dd2": {
       "loggedIn": true,
       "time": 1785169494514,
-      "lastActive": 1785169576746
+      "lastActive": 1785169679138
     }
   },
   "settings": {
