@@ -226,6 +226,23 @@
       "blockedIPs": [],
       "expiresAt": "2026-08-11T15:58:40.243Z",
       "createdAt": "2026-07-27T15:58:40.243Z"
+    },
+    {
+      "id": "a9b1ba4f-dfb8-4128-a7c7-2a37aad6b301",
+      "apiKey": "yest",
+      "name": "TEST API",
+      "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
+      "totalCredits": 5,
+      "creditsPerRequest": 1,
+      "usedCredits": 0,
+      "unlimited": false,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": null,
+      "createdAt": "2026-07-27T16:26:14.734Z"
     }
   ],
   "logs": [
@@ -2470,7 +2487,7 @@
     "7a05ea2d-22ca-4727-b22a-dbf4427a2dd2": {
       "loggedIn": true,
       "time": 1785169494514,
-      "lastActive": 1785169499230
+      "lastActive": 1785169574733
     }
   },
   "settings": {
