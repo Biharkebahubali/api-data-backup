@@ -234,7 +234,7 @@
       "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
       "totalCredits": 10,
       "creditsPerRequest": 1,
-      "usedCredits": 5,
+      "usedCredits": 6,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": false,
@@ -245,7 +245,7 @@
           "deviceName": "Unknown",
           "ip": "157.42.18.220",
           "firstSeen": "2026-07-27T16:26:30.018Z",
-          "lastSeen": "2026-07-27T16:28:34.460Z"
+          "lastSeen": "2026-07-27T16:28:38.386Z"
         }
       ],
       "blockedIPs": [],
@@ -2438,6 +2438,18 @@
       "path": "",
       "creditsUsed": 1,
       "remainingCredits": "6",
+      "ip": "157.42.18.220",
+      "deviceId": "cbcc542b2b79d26e",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-27T16:28:36.198Z",
+      "apiKeyId": "a9b1ba4f-dfb8-4128-a7c7-2a37aad6b301",
+      "apiKey": "yest",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "5",
       "ip": "157.42.18.220",
       "deviceId": "cbcc542b2b79d26e",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
