@@ -2405,6 +2405,18 @@
       "ip": "95.217.151.27",
       "deviceId": "6312a8d4686ac641",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    {
+      "timestamp": "2026-07-27T16:28:05.617Z",
+      "apiKeyId": "a9b1ba4f-dfb8-4128-a7c7-2a37aad6b301",
+      "apiKey": "yest",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "9998",
+      "ip": "157.42.18.220",
+      "deviceId": "cbcc542b2b79d26e",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
     }
   ],
   "notifications": [
