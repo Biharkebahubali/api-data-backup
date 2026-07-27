@@ -234,12 +234,20 @@
       "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
       "totalCredits": 5,
       "creditsPerRequest": 1,
-      "usedCredits": 0,
+      "usedCredits": 1,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "cbcc542b2b79d26e",
+          "deviceName": "Unknown",
+          "ip": "157.42.18.220",
+          "firstSeen": "2026-07-27T16:26:30.018Z",
+          "lastSeen": "2026-07-27T16:26:30.018Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": null,
       "createdAt": "2026-07-27T16:26:14.734Z"
