@@ -55,6 +55,14 @@
       "authHeader": "",
       "queryParams": "uid=",
       "createdAt": "2026-07-25T18:58:59.784Z"
+    },
+    {
+      "id": "8c7b0e23-d49b-4371-932b-b5426e871f3f",
+      "name": "Dark Vehicle",
+      "baseUrl": "https://reseller-host.vercel.app/api",
+      "authHeader": "",
+      "queryParams": "number=",
+      "createdAt": "2026-07-30T10:58:53.908Z"
     }
   ],
   "apiKeys": [
@@ -3994,7 +4002,7 @@
     "9753e22d-b2f4-4105-b119-72f13ca0dcab": {
       "loggedIn": true,
       "time": 1785409085751,
-      "lastActive": 1785409087909
+      "lastActive": 1785409133907
     }
   },
   "settings": {
