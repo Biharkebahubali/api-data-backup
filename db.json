@@ -63,6 +63,14 @@
       "authHeader": "",
       "queryParams": "number=",
       "createdAt": "2026-07-30T11:08:02.244Z"
+    },
+    {
+      "id": "6be35813-a1d0-44e9-be7c-1a6a2173ed5d",
+      "name": "Vehicle Info API",
+      "baseUrl": "http://vpsbysrdark.wisp.uno/api/10/call",
+      "authHeader": "",
+      "queryParams": "key=srd_ENxyUBCR3h9LZz7U&number=",
+      "createdAt": "2026-07-30T11:14:11.973Z"
     }
   ],
   "apiKeys": [
@@ -4225,7 +4233,7 @@
     "ab7dde12-f563-4533-96f4-7a3272991958": {
       "loggedIn": true,
       "time": 1785409286145,
-      "lastActive": 1785410019253
+      "lastActive": 1785410051972
     }
   },
   "settings": {
