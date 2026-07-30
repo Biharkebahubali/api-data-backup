@@ -4299,6 +4299,18 @@
       "ip": "157.42.18.203",
       "deviceId": "9c85579c5244aecb",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-30T11:19:39.913Z",
+      "apiKeyId": "67925bd9-2639-45a2-a83d-b0a9614e9644",
+      "apiKey": "srdark1",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "7",
+      "ip": "157.35.46.238",
+      "deviceId": "69c2b3258e7b33aa",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
     }
   ],
   "notifications": [
