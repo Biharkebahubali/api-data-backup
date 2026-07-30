@@ -261,7 +261,15 @@
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "9c85579c5244aecb",
+          "deviceName": "Unknown",
+          "ip": "157.42.18.203",
+          "firstSeen": "2026-07-30T11:00:17.778Z",
+          "lastSeen": "2026-07-30T11:00:17.778Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": "2026-07-31T10:59:28.042Z",
       "createdAt": "2026-07-30T10:59:28.042Z"
@@ -3895,6 +3903,18 @@
       "ip": "103.191.208.201",
       "deviceId": "6e0808ec7e3fd65d",
       "userAgent": "GuzzleHttp/7"
+    },
+    {
+      "timestamp": "2026-07-30T11:00:17.778Z",
+      "apiKeyId": "707be0b6-55f8-4163-9a3d-1595a2ea64b3",
+      "apiKey": "Sr Dark",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "157.42.18.203",
+      "deviceId": "9c85579c5244aecb",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
     }
   ],
   "notifications": [
