@@ -268,6 +268,13 @@
           "ip": "149.154.161.218",
           "firstSeen": "2026-07-30T11:08:40.476Z",
           "lastSeen": "2026-07-30T11:08:40.476Z"
+        },
+        {
+          "deviceId": "fe47b7b9d53df5b6",
+          "deviceName": "Unknown",
+          "ip": "149.154.161.201",
+          "firstSeen": "2026-07-30T11:08:45.334Z",
+          "lastSeen": "2026-07-30T11:08:45.334Z"
         }
       ],
       "blockedIPs": [],
@@ -3986,6 +3993,18 @@
       "remainingCredits": "Unlimited",
       "ip": "149.154.161.218",
       "deviceId": "15e6e88fda2372b0",
+      "userAgent": "TelegramBot (like TwitterBot)"
+    },
+    {
+      "timestamp": "2026-07-30T11:08:45.334Z",
+      "apiKeyId": "43832735-0510-4973-842b-39b47147c4c6",
+      "apiKey": "srdark",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "149.154.161.201",
+      "deviceId": "fe47b7b9d53df5b6",
       "userAgent": "TelegramBot (like TwitterBot)"
     }
   ],
