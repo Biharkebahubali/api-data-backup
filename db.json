@@ -177,6 +177,13 @@
           "ip": "149.154.161.250",
           "firstSeen": "2026-07-30T17:36:59.134Z",
           "lastSeen": "2026-07-30T17:36:59.134Z"
+        },
+        {
+          "deviceId": "c94627106a4042e7",
+          "deviceName": "Unknown",
+          "ip": "152.59.144.155",
+          "firstSeen": "2026-07-30T17:37:08.018Z",
+          "lastSeen": "2026-07-30T17:37:08.018Z"
         }
       ],
       "blockedIPs": [],
@@ -5075,6 +5082,18 @@
       "ip": "149.154.161.250",
       "deviceId": "e615907547ae0d1d",
       "userAgent": "TelegramBot (like TwitterBot)"
+    },
+    {
+      "timestamp": "2026-07-30T17:37:08.018Z",
+      "apiKeyId": "164fd7af-75a5-477c-90e9-0ec155bf2ba0",
+      "apiKey": "bihari",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "152.59.144.155",
+      "deviceId": "c94627106a4042e7",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36 EdgA/150.0.0.0"
     }
   ],
   "notifications": [
