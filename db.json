@@ -57,14 +57,6 @@
       "createdAt": "2026-07-25T18:58:59.784Z"
     },
     {
-      "id": "fd3a8f86-70bf-4903-9fcb-5b40dbfec9c4",
-      "name": "Dark Vehicle",
-      "baseUrl": "https://infoapi.animehub.network/api/numinfo",
-      "authHeader": "",
-      "queryParams": "",
-      "createdAt": "2026-07-30T11:03:25.826Z"
-    },
-    {
       "id": "48678f48-5ff5-4907-8409-44cc25195acd",
       "name": "SR DARK",
       "baseUrl": "https://reseller-host.vercel.app/api/rc",
@@ -4092,7 +4084,7 @@
     "ab7dde12-f563-4533-96f4-7a3272991958": {
       "loggedIn": true,
       "time": 1785409286145,
-      "lastActive": 1785409682242
+      "lastActive": 1785409687146
     }
   },
   "settings": {
