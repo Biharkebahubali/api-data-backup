@@ -248,31 +248,6 @@
       "blockedIPs": [],
       "expiresAt": "2026-08-11T15:58:40.243Z",
       "createdAt": "2026-07-27T15:58:40.243Z"
-    },
-    {
-      "id": "99884d6a-77f3-4a55-9a9b-c981abf62da3",
-      "apiKey": "SrDark",
-      "name": "Premium",
-      "realApiId": "fd3a8f86-70bf-4903-9fcb-5b40dbfec9c4",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
-      "usedCredits": 0,
-      "unlimited": true,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": true,
-      "devices": [
-        {
-          "deviceId": "9c85579c5244aecb",
-          "deviceName": "Unknown",
-          "ip": "157.42.18.203",
-          "firstSeen": "2026-07-30T11:05:16.493Z",
-          "lastSeen": "2026-07-30T11:05:16.493Z"
-        }
-      ],
-      "blockedIPs": [],
-      "expiresAt": null,
-      "createdAt": "2026-07-30T11:04:49.284Z"
     }
   ],
   "logs": [
@@ -4109,7 +4084,7 @@
     "ab7dde12-f563-4533-96f4-7a3272991958": {
       "loggedIn": true,
       "time": 1785409286145,
-      "lastActive": 1785409491531
+      "lastActive": 1785409584431
     }
   },
   "settings": {
