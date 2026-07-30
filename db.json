@@ -261,7 +261,15 @@
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "974ea5bd4057c430",
+          "deviceName": "Unknown",
+          "ip": "149.154.161.245",
+          "firstSeen": "2026-07-30T11:02:12.394Z",
+          "lastSeen": "2026-07-30T11:02:12.394Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": "2026-07-31T11:01:59.405Z",
       "createdAt": "2026-07-30T11:01:59.405Z"
@@ -3907,6 +3915,18 @@
       "ip": "157.42.18.203",
       "deviceId": "9c85579c5244aecb",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-30T11:02:12.394Z",
+      "apiKeyId": "bc4627eb-4ffd-44c8-b19b-543c2e4224b9",
+      "apiKey": "darksk",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "149.154.161.245",
+      "deviceId": "974ea5bd4057c430",
+      "userAgent": "TelegramBot (like TwitterBot)"
     }
   ],
   "notifications": [
