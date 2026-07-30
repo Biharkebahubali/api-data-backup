@@ -269,52 +269,6 @@
       "blockedIPs": [],
       "expiresAt": "2026-08-11T15:58:40.243Z",
       "createdAt": "2026-07-27T15:58:40.243Z"
-    },
-    {
-      "id": "43832735-0510-4973-842b-39b47147c4c6",
-      "apiKey": "srdark",
-      "name": "Premium",
-      "realApiId": "48678f48-5ff5-4907-8409-44cc25195acd",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
-      "usedCredits": 0,
-      "unlimited": true,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": true,
-      "devices": [
-        {
-          "deviceId": "15e6e88fda2372b0",
-          "deviceName": "Unknown",
-          "ip": "149.154.161.218",
-          "firstSeen": "2026-07-30T11:08:40.476Z",
-          "lastSeen": "2026-07-30T11:08:40.476Z"
-        },
-        {
-          "deviceId": "fe47b7b9d53df5b6",
-          "deviceName": "Unknown",
-          "ip": "149.154.161.201",
-          "firstSeen": "2026-07-30T11:08:45.334Z",
-          "lastSeen": "2026-07-30T11:08:45.334Z"
-        },
-        {
-          "deviceId": "9c85579c5244aecb",
-          "deviceName": "Unknown",
-          "ip": "157.42.18.203",
-          "firstSeen": "2026-07-30T11:08:46.367Z",
-          "lastSeen": "2026-07-30T11:09:17.108Z"
-        },
-        {
-          "deviceId": "7888f9b20b7926e1",
-          "deviceName": "Unknown",
-          "ip": "119.13.89.24",
-          "firstSeen": "2026-07-30T11:11:03.542Z",
-          "lastSeen": "2026-07-30T11:11:03.542Z"
-        }
-      ],
-      "blockedIPs": [],
-      "expiresAt": "2026-07-31T11:08:29.348Z",
-      "createdAt": "2026-07-30T11:08:29.348Z"
     }
   ],
   "logs": [
@@ -4271,7 +4225,7 @@
     "ab7dde12-f563-4533-96f4-7a3272991958": {
       "loggedIn": true,
       "time": 1785409286145,
-      "lastActive": 1785409711061
+      "lastActive": 1785410017664
     }
   },
   "settings": {
