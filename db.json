@@ -338,7 +338,7 @@
       "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
       "totalCredits": 10,
       "creditsPerRequest": 1,
-      "usedCredits": 6,
+      "usedCredits": 7,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
@@ -385,6 +385,13 @@
           "ip": "95.161.76.20",
           "firstSeen": "2026-07-30T12:41:11.234Z",
           "lastSeen": "2026-07-30T12:41:11.234Z"
+        },
+        {
+          "deviceId": "7bf7bff3b4c6dd46",
+          "deviceName": "Unknown",
+          "ip": "95.161.76.51",
+          "firstSeen": "2026-07-30T12:41:12.674Z",
+          "lastSeen": "2026-07-30T12:41:12.674Z"
         }
       ],
       "blockedIPs": [],
@@ -4356,6 +4363,18 @@
       "ip": "149.154.161.246",
       "deviceId": "a40a6f7177168e6f",
       "userAgent": "TelegramBot (like TwitterBot)"
+    },
+    {
+      "timestamp": "2026-07-30T12:41:12.463Z",
+      "apiKeyId": "67925bd9-2639-45a2-a83d-b0a9614e9644",
+      "apiKey": "srdark1",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "4",
+      "ip": "95.161.76.20",
+      "deviceId": "47f3c41cb112c5a3",
+      "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:77.0) Gecko/20190101 Firefox/77.0"
     }
   ],
   "notifications": [
