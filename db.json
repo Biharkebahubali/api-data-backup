@@ -277,6 +277,23 @@
       "blockedIPs": [],
       "expiresAt": "2026-08-11T15:58:40.243Z",
       "createdAt": "2026-07-27T15:58:40.243Z"
+    },
+    {
+      "id": "35ecc5c6-b72f-469d-8117-20a2011d020a",
+      "apiKey": "srdark",
+      "name": "Premium",
+      "realApiId": "6be35813-a1d0-44e9-be7c-1a6a2173ed5d",
+      "totalCredits": -1,
+      "creditsPerRequest": 0,
+      "usedCredits": 0,
+      "unlimited": true,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": "2026-07-31T11:15:05.174Z",
+      "createdAt": "2026-07-30T11:15:05.174Z"
     }
   ],
   "logs": [
@@ -4243,7 +4260,7 @@
     "b42e84b4-a235-4622-b6eb-c732f8edeaaf": {
       "loggedIn": true,
       "time": 1785410082575,
-      "lastActive": 1785410084951
+      "lastActive": 1785410105173
     }
   },
   "settings": {
