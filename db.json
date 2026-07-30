@@ -323,6 +323,23 @@
       "blockedIPs": [],
       "expiresAt": "2026-07-31T11:15:05.174Z",
       "createdAt": "2026-07-30T11:15:05.174Z"
+    },
+    {
+      "id": "67925bd9-2639-45a2-a83d-b0a9614e9644",
+      "apiKey": "srdark1",
+      "name": "SR DARK",
+      "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
+      "totalCredits": 10,
+      "creditsPerRequest": 1,
+      "usedCredits": 0,
+      "unlimited": false,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": null,
+      "createdAt": "2026-07-30T11:19:12.849Z"
     }
   ],
   "logs": [
@@ -4349,7 +4366,7 @@
     "b42e84b4-a235-4622-b6eb-c732f8edeaaf": {
       "loggedIn": true,
       "time": 1785410082575,
-      "lastActive": 1785410347467
+      "lastActive": 1785410352848
     }
   },
   "settings": {
