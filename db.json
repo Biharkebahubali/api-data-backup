@@ -282,6 +282,13 @@
           "ip": "157.42.18.203",
           "firstSeen": "2026-07-30T11:02:19.899Z",
           "lastSeen": "2026-07-30T11:02:19.899Z"
+        },
+        {
+          "deviceId": "69c2b3258e7b33aa",
+          "deviceName": "Unknown",
+          "ip": "157.35.46.238",
+          "firstSeen": "2026-07-30T11:02:23.696Z",
+          "lastSeen": "2026-07-30T11:02:23.696Z"
         }
       ],
       "blockedIPs": [],
@@ -3964,6 +3971,18 @@
       "remainingCredits": "Unlimited",
       "ip": "157.42.18.203",
       "deviceId": "9c85579c5244aecb",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "timestamp": "2026-07-30T11:02:23.696Z",
+      "apiKeyId": "bc4627eb-4ffd-44c8-b19b-543c2e4224b9",
+      "apiKey": "darksk",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "157.35.46.238",
+      "deviceId": "69c2b3258e7b33aa",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
     }
   ],
