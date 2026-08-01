@@ -352,7 +352,7 @@
       "unlimited": true,
       "maxDevices": 999,
       "unlimitedDevices": true,
-      "active": true,
+      "active": false,
       "devices": [
         {
           "deviceId": "7e69d4be6c8acf32",
@@ -11012,7 +11012,7 @@
     "98a5c526-509f-4711-9bc5-f921ddf04d69": {
       "loggedIn": true,
       "time": 1785415438237,
-      "lastActive": 1785415453043
+      "lastActive": 1785579054882
     }
   },
   "settings": {
