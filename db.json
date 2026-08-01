@@ -327,7 +327,7 @@
           "deviceName": "Unknown",
           "ip": "2a06:98c0:3600::103",
           "firstSeen": "2026-07-31T11:46:05.842Z",
-          "lastSeen": "2026-08-01T04:31:51.219Z"
+          "lastSeen": "2026-08-01T04:35:04.501Z"
         },
         {
           "deviceId": "847892c8b4c118ff",
@@ -9732,6 +9732,18 @@
       "ip": "103.191.208.201",
       "deviceId": "6e0808ec7e3fd65d",
       "userAgent": "GuzzleHttp/7"
+    },
+    {
+      "timestamp": "2026-08-01T04:35:04.502Z",
+      "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
+      "apiKey": "yuvraj",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "2a06:98c0:3600::103",
+      "deviceId": "7af829c171be3588",
+      "userAgent": ""
     }
   ],
   "notifications": [
