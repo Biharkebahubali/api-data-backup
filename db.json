@@ -327,7 +327,7 @@
           "deviceName": "Unknown",
           "ip": "2a06:98c0:3600::103",
           "firstSeen": "2026-07-31T11:46:05.842Z",
-          "lastSeen": "2026-08-01T10:22:47.661Z"
+          "lastSeen": "2026-08-01T10:24:00.211Z"
         },
         {
           "deviceId": "847892c8b4c118ff",
@@ -10851,6 +10851,18 @@
     },
     {
       "timestamp": "2026-08-01T10:22:47.661Z",
+      "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
+      "apiKey": "yuvraj",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "2a06:98c0:3600::103",
+      "deviceId": "7af829c171be3588",
+      "userAgent": ""
+    },
+    {
+      "timestamp": "2026-08-01T10:24:00.211Z",
       "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
       "apiKey": "yuvraj",
       "method": "GET",
