@@ -13019,26 +13019,6 @@
   "payments": [],
   "paymentRequests": [],
   "sessions": {
-    "bcf4d49c-f9d3-477b-916a-c4f66f098807": {
-      "loggedIn": true,
-      "time": 1785076006320,
-      "lastActive": 1785076006320
-    },
-    "4a99b327-c497-48b8-82f3-5db12c96e8d5": {
-      "loggedIn": true,
-      "time": 1785076069741,
-      "lastActive": 1785076073459
-    },
-    "9d5237eb-e8e9-44e2-940a-f461d0cfa8b4": {
-      "loggedIn": true,
-      "time": 1785076406694,
-      "lastActive": 1785076406694
-    },
-    "e59044c8-3001-4485-8f66-a673bc17569b": {
-      "loggedIn": true,
-      "time": 1785076417089,
-      "lastActive": 1785076585160
-    },
     "c1da238c-f480-4972-a620-1ae082975b86": {
       "loggedIn": true,
       "time": 1785167861963,
