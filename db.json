@@ -12863,21 +12863,6 @@
   "payments": [],
   "paymentRequests": [],
   "sessions": {
-    "43fedf9c-bb4c-484e-9964-60199a978da4": {
-      "loggedIn": true,
-      "time": 1785006476739,
-      "lastActive": 1785054043036
-    },
-    "15838a8d-5611-4f4c-a38f-d1f90515f13e": {
-      "loggedIn": true,
-      "time": 1785054045753,
-      "lastActive": 1785054045753
-    },
-    "c56699fe-40d3-4f18-943c-58509c2f00d2": {
-      "loggedIn": true,
-      "time": 1785054053174,
-      "lastActive": 1785054070805
-    },
     "bcf4d49c-f9d3-477b-916a-c4f66f098807": {
       "loggedIn": true,
       "time": 1785076006320,
