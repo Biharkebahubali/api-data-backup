@@ -79,6 +79,14 @@
       "authHeader": "",
       "queryParams": "number=",
       "createdAt": "2026-08-04T20:39:55.542Z"
+    },
+    {
+      "id": "92889201-0133-481e-9cd0-bbf48e219c42",
+      "name": "api.agify.io",
+      "baseUrl": "https://api.agify.io",
+      "authHeader": "",
+      "queryParams": "name=test",
+      "createdAt": "2026-08-04T20:43:22.273Z"
     }
   ],
   "apiKeys": [
@@ -15509,7 +15517,7 @@
     "186d2630-7793-4a8b-8a78-1a171fe68bde": {
       "loggedIn": true,
       "time": 1785875291384,
-      "lastActive": 1785876034305
+      "lastActive": 1785876202271
     }
   },
   "settings": {
