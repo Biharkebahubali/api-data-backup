@@ -361,59 +361,6 @@
       "blockedIPs": [],
       "expiresAt": "2026-08-11T15:58:40.243Z",
       "createdAt": "2026-07-27T15:58:40.243Z"
-    },
-    {
-      "id": "35ecc5c6-b72f-469d-8117-20a2011d020a",
-      "apiKey": "srdark",
-      "name": "Premium",
-      "realApiId": "6be35813-a1d0-44e9-be7c-1a6a2173ed5d",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
-      "usedCredits": 0,
-      "unlimited": true,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": false,
-      "devices": [
-        {
-          "deviceId": "7e69d4be6c8acf32",
-          "deviceName": "Unknown",
-          "ip": "149.154.161.244",
-          "firstSeen": "2026-07-30T11:15:24.746Z",
-          "lastSeen": "2026-07-30T11:15:24.746Z"
-        },
-        {
-          "deviceId": "65b0fec350adae37",
-          "deviceName": "Unknown",
-          "ip": "149.154.161.200",
-          "firstSeen": "2026-07-30T11:15:28.163Z",
-          "lastSeen": "2026-07-30T11:15:28.163Z"
-        },
-        {
-          "deviceId": "a002e0bfa5afc6a7",
-          "deviceName": "Unknown",
-          "ip": "149.154.161.232",
-          "firstSeen": "2026-07-30T11:15:30.656Z",
-          "lastSeen": "2026-07-30T11:15:30.656Z"
-        },
-        {
-          "deviceId": "9c85579c5244aecb",
-          "deviceName": "Unknown",
-          "ip": "157.42.18.203",
-          "firstSeen": "2026-07-30T11:15:31.940Z",
-          "lastSeen": "2026-07-30T11:16:14.623Z"
-        },
-        {
-          "deviceId": "69c2b3258e7b33aa",
-          "deviceName": "Unknown",
-          "ip": "157.35.46.238",
-          "firstSeen": "2026-07-30T11:19:19.179Z",
-          "lastSeen": "2026-07-30T11:19:32.919Z"
-        }
-      ],
-      "blockedIPs": [],
-      "expiresAt": "2026-07-31T11:15:05.174Z",
-      "createdAt": "2026-07-30T11:15:05.174Z"
     }
   ],
   "logs": [
@@ -15487,7 +15434,7 @@
     "186d2630-7793-4a8b-8a78-1a171fe68bde": {
       "loggedIn": true,
       "time": 1785875291384,
-      "lastActive": 1785875360296
+      "lastActive": 1785875364759
     }
   },
   "settings": {
