@@ -71,6 +71,14 @@
       "authHeader": "",
       "queryParams": "key=srd_ENxyUBCR3h9LZz7U&number=",
       "createdAt": "2026-07-30T11:14:11.973Z"
+    },
+    {
+      "id": "4864d6d6-e6d9-4f8f-ad27-9206bae5c2ad",
+      "name": "Vehicle Info API",
+      "baseUrl": "https://reseller-host.vercel.app/api/rc",
+      "authHeader": "",
+      "queryParams": "number=JH02T8812",
+      "createdAt": "2026-08-04T20:31:24.893Z"
     }
   ],
   "apiKeys": [
@@ -15434,7 +15442,7 @@
     "186d2630-7793-4a8b-8a78-1a171fe68bde": {
       "loggedIn": true,
       "time": 1785875291384,
-      "lastActive": 1785875469415
+      "lastActive": 1785875484891
     }
   },
   "settings": {
