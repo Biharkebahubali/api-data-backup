@@ -71,6 +71,14 @@
       "authHeader": "",
       "queryParams": "key=srd_ENxyUBCR3h9LZz7U&number=",
       "createdAt": "2026-07-30T11:14:11.973Z"
+    },
+    {
+      "id": "6dab5db0-b59a-4411-b9db-751fcd86f39a",
+      "name": "Vehicle",
+      "baseUrl": "https://reseller-host.vercel.app/api/rc",
+      "authHeader": "",
+      "queryParams": "number=",
+      "createdAt": "2026-08-04T20:39:55.542Z"
     }
   ],
   "apiKeys": [
@@ -15487,7 +15495,7 @@
     "186d2630-7793-4a8b-8a78-1a171fe68bde": {
       "loggedIn": true,
       "time": 1785875291384,
-      "lastActive": 1785875854017
+      "lastActive": 1785875995541
     }
   },
   "settings": {
