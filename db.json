@@ -251,7 +251,15 @@
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "6feb95f82319f9ed",
+          "deviceName": "Unknown",
+          "ip": "157.42.18.21",
+          "firstSeen": "2026-08-04T20:49:44.549Z",
+          "lastSeen": "2026-08-04T20:49:44.549Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": "2026-08-09T18:59:43.314Z",
       "createdAt": "2026-07-25T18:59:43.314Z"
@@ -15449,6 +15457,20 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
       "success": true,
       "status": 200
+    },
+    {
+      "timestamp": "2026-08-04T20:49:44.621Z",
+      "apiKeyId": "76ad3a94-935f-49f7-8fc0-c013b0538076",
+      "apiKey": "biharilike",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "157.42.18.21",
+      "deviceId": "6feb95f82319f9ed",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "success": false,
+      "status": 502
     }
   ],
   "notifications": [
