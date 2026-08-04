@@ -49,14 +49,6 @@
       "createdAt": "2026-07-25T13:33:45.099Z"
     },
     {
-      "id": "4be5397f-a778-47e3-9d7b-4f40a79da313",
-      "name": "Free Fire Like",
-      "baseUrl": "https://r-bota-20-like-api.co08.art/like",
-      "authHeader": "",
-      "queryParams": "uid=",
-      "createdAt": "2026-07-25T18:58:59.784Z"
-    },
-    {
       "id": "48678f48-5ff5-4907-8409-44cc25195acd",
       "name": "SR DARK",
       "baseUrl": "https://reseller-host.vercel.app/api/rc",
@@ -15509,7 +15501,7 @@
     "186d2630-7793-4a8b-8a78-1a171fe68bde": {
       "loggedIn": true,
       "time": 1785875291384,
-      "lastActive": 1785876621508
+      "lastActive": 1785876624501
     }
   },
   "settings": {
