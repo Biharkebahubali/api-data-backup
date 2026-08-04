@@ -240,31 +240,6 @@
       "createdAt": "2026-07-25T14:10:37.811Z"
     },
     {
-      "id": "76ad3a94-935f-49f7-8fc0-c013b0538076",
-      "apiKey": "biharilike",
-      "name": "Premium",
-      "realApiId": "4be5397f-a778-47e3-9d7b-4f40a79da313",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
-      "usedCredits": 0,
-      "unlimited": true,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": true,
-      "devices": [
-        {
-          "deviceId": "6feb95f82319f9ed",
-          "deviceName": "Unknown",
-          "ip": "157.42.18.21",
-          "firstSeen": "2026-08-04T20:49:44.549Z",
-          "lastSeen": "2026-08-04T20:49:44.549Z"
-        }
-      ],
-      "blockedIPs": [],
-      "expiresAt": "2026-08-09T18:59:43.314Z",
-      "createdAt": "2026-07-25T18:59:43.314Z"
-    },
-    {
       "id": "28f19070-db49-4386-88df-c322e9f9e1c0",
       "apiKey": "yuvraj",
       "name": "Premium",
@@ -15550,7 +15525,7 @@
     "186d2630-7793-4a8b-8a78-1a171fe68bde": {
       "loggedIn": true,
       "time": 1785875291384,
-      "lastActive": 1785876572467
+      "lastActive": 1785876598269
     }
   },
   "settings": {
