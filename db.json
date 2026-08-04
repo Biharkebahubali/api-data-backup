@@ -418,12 +418,20 @@
       "realApiId": "c3dddf0d-c74f-4ecd-8e73-48d5ba896d02",
       "totalCredits": 1000,
       "creditsPerRequest": 1,
-      "usedCredits": 0,
+      "usedCredits": 1,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "6feb95f82319f9ed",
+          "deviceName": "Unknown",
+          "ip": "157.42.18.21",
+          "firstSeen": "2026-08-04T20:47:07.182Z",
+          "lastSeen": "2026-08-04T20:47:07.182Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": "2026-08-05T20:46:54.911Z",
       "createdAt": "2026-08-04T20:46:54.911Z"
@@ -15477,6 +15485,20 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
       "success": false,
       "status": 429
+    },
+    {
+      "timestamp": "2026-08-04T20:47:07.604Z",
+      "apiKeyId": "5aaf5083-8601-4adb-ba6c-11528cd483c8",
+      "apiKey": "eww",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "999",
+      "ip": "157.42.18.21",
+      "deviceId": "6feb95f82319f9ed",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "success": true,
+      "status": 200
     }
   ],
   "notifications": [
