@@ -352,7 +352,7 @@
       "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
       "totalCredits": 10,
       "creditsPerRequest": 1,
-      "usedCredits": 1,
+      "usedCredits": 2,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
@@ -364,6 +364,13 @@
           "ip": "149.154.161.220",
           "firstSeen": "2026-08-05T14:20:38.275Z",
           "lastSeen": "2026-08-05T14:20:38.275Z"
+        },
+        {
+          "deviceId": "1110c94717f5ea6b",
+          "deviceName": "Unknown",
+          "ip": "157.35.26.8",
+          "firstSeen": "2026-08-05T14:20:39.710Z",
+          "lastSeen": "2026-08-05T14:20:39.710Z"
         }
       ],
       "blockedIPs": [],
@@ -15999,6 +16006,30 @@
       "ip": "2a06:98c0:3600::103",
       "deviceId": "7af829c171be3588",
       "userAgent": ""
+    },
+    {
+      "timestamp": "2026-08-05T14:20:40.611Z",
+      "apiKeyId": "0c190936-a1af-479b-8609-a25cb5e3217f",
+      "apiKey": "PRIME",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "8",
+      "ip": "149.154.161.220",
+      "deviceId": "8fdaa175bbb91660",
+      "userAgent": "TelegramBot (like TwitterBot)"
+    },
+    {
+      "timestamp": "2026-08-05T14:20:41.026Z",
+      "apiKeyId": "0c190936-a1af-479b-8609-a25cb5e3217f",
+      "apiKey": "PRIME",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "8",
+      "ip": "157.35.26.8",
+      "deviceId": "1110c94717f5ea6b",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
     }
   ],
   "notifications": [
