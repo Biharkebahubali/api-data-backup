@@ -310,7 +310,7 @@
           "deviceName": "Unknown",
           "ip": "2a06:98c0:3600::103",
           "firstSeen": "2026-07-31T11:46:05.842Z",
-          "lastSeen": "2026-08-05T14:16:39.860Z"
+          "lastSeen": "2026-08-05T14:22:43.930Z"
         },
         {
           "deviceId": "847892c8b4c118ff",
@@ -16049,6 +16049,30 @@
       "ip": "185.184.192.229",
       "deviceId": "50e95a2bfee913db",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "timestamp": "2026-08-05T14:22:31.950Z",
+      "apiKeyId": "0c190936-a1af-479b-8609-a25cb5e3217f",
+      "apiKey": "PRIME",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "6",
+      "ip": "185.184.192.229",
+      "deviceId": "50e95a2bfee913db",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "timestamp": "2026-08-05T14:22:43.930Z",
+      "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
+      "apiKey": "yuvraj",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "2a06:98c0:3600::103",
+      "deviceId": "7af829c171be3588",
+      "userAgent": ""
     }
   ],
   "notifications": [
