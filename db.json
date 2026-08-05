@@ -310,7 +310,7 @@
           "deviceName": "Unknown",
           "ip": "2a06:98c0:3600::103",
           "firstSeen": "2026-07-31T11:46:05.842Z",
-          "lastSeen": "2026-08-05T13:12:45.548Z"
+          "lastSeen": "2026-08-05T14:16:39.860Z"
         },
         {
           "deviceId": "847892c8b4c118ff",
@@ -344,6 +344,45 @@
       "blockedIPs": [],
       "expiresAt": "2026-08-11T15:58:40.243Z",
       "createdAt": "2026-07-27T15:58:40.243Z"
+    },
+    {
+      "id": "0c190936-a1af-479b-8609-a25cb5e3217f",
+      "apiKey": "PRIME",
+      "name": "DEMO PLAN",
+      "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
+      "totalCredits": 10,
+      "creditsPerRequest": 1,
+      "usedCredits": 3,
+      "unlimited": false,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [
+        {
+          "deviceId": "8fdaa175bbb91660",
+          "deviceName": "Unknown",
+          "ip": "149.154.161.220",
+          "firstSeen": "2026-08-05T14:20:38.275Z",
+          "lastSeen": "2026-08-05T14:20:38.275Z"
+        },
+        {
+          "deviceId": "1110c94717f5ea6b",
+          "deviceName": "Unknown",
+          "ip": "157.35.26.8",
+          "firstSeen": "2026-08-05T14:20:39.710Z",
+          "lastSeen": "2026-08-05T14:20:39.710Z"
+        },
+        {
+          "deviceId": "50e95a2bfee913db",
+          "deviceName": "Unknown",
+          "ip": "185.184.192.229",
+          "firstSeen": "2026-08-05T14:21:59.670Z",
+          "lastSeen": "2026-08-05T14:21:59.670Z"
+        }
+      ],
+      "blockedIPs": [],
+      "expiresAt": "2026-08-06T14:20:07.851Z",
+      "createdAt": "2026-08-05T14:20:07.851Z"
     }
   ],
   "logs": [
@@ -15950,6 +15989,54 @@
       "ip": "103.191.208.201",
       "deviceId": "6e0808ec7e3fd65d",
       "userAgent": "GuzzleHttp/7"
+    },
+    {
+      "timestamp": "2026-08-05T14:14:42.755Z",
+      "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
+      "apiKey": "yuvraj",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "2a06:98c0:3600::103",
+      "deviceId": "7af829c171be3588",
+      "userAgent": ""
+    },
+    {
+      "timestamp": "2026-08-05T14:16:39.860Z",
+      "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
+      "apiKey": "yuvraj",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "2a06:98c0:3600::103",
+      "deviceId": "7af829c171be3588",
+      "userAgent": ""
+    },
+    {
+      "timestamp": "2026-08-05T14:20:40.611Z",
+      "apiKeyId": "0c190936-a1af-479b-8609-a25cb5e3217f",
+      "apiKey": "PRIME",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "8",
+      "ip": "149.154.161.220",
+      "deviceId": "8fdaa175bbb91660",
+      "userAgent": "TelegramBot (like TwitterBot)"
+    },
+    {
+      "timestamp": "2026-08-05T14:20:41.026Z",
+      "apiKeyId": "0c190936-a1af-479b-8609-a25cb5e3217f",
+      "apiKey": "PRIME",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "8",
+      "ip": "157.35.26.8",
+      "deviceId": "1110c94717f5ea6b",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
     }
   ],
   "notifications": [
@@ -16019,7 +16106,7 @@
     "98a5c526-509f-4711-9bc5-f921ddf04d69": {
       "loggedIn": true,
       "time": 1785415438237,
-      "lastActive": 1785579054882
+      "lastActive": 1785939539855
     },
     "238aa82d-1ca7-4f8d-be5e-b4802ff6e17a": {
       "loggedIn": true,
@@ -16029,7 +16116,17 @@
     "186d2630-7793-4a8b-8a78-1a171fe68bde": {
       "loggedIn": true,
       "time": 1785875291384,
-      "lastActive": 1785939692220
+      "lastActive": 1785876639678
+    },
+    "621101a8-23d0-4910-a5b2-5dd0f99a6e70": {
+      "loggedIn": true,
+      "time": 1785939543511,
+      "lastActive": 1785939543511
+    },
+    "4a758260-e8b3-4eda-ac76-075efa5e0412": {
+      "loggedIn": true,
+      "time": 1785939552849,
+      "lastActive": 1785939610627
     }
   },
   "settings": {
