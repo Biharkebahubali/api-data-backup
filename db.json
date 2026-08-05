@@ -310,7 +310,7 @@
           "deviceName": "Unknown",
           "ip": "2a06:98c0:3600::103",
           "firstSeen": "2026-07-31T11:46:05.842Z",
-          "lastSeen": "2026-08-05T14:16:39.860Z"
+          "lastSeen": "2026-08-05T13:12:45.548Z"
         },
         {
           "deviceId": "847892c8b4c118ff",
@@ -15950,30 +15950,6 @@
       "ip": "103.191.208.201",
       "deviceId": "6e0808ec7e3fd65d",
       "userAgent": "GuzzleHttp/7"
-    },
-    {
-      "timestamp": "2026-08-05T14:14:42.755Z",
-      "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
-      "apiKey": "yuvraj",
-      "method": "GET",
-      "path": "",
-      "creditsUsed": 0,
-      "remainingCredits": "Unlimited",
-      "ip": "2a06:98c0:3600::103",
-      "deviceId": "7af829c171be3588",
-      "userAgent": ""
-    },
-    {
-      "timestamp": "2026-08-05T14:16:39.860Z",
-      "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
-      "apiKey": "yuvraj",
-      "method": "GET",
-      "path": "",
-      "creditsUsed": 0,
-      "remainingCredits": "Unlimited",
-      "ip": "2a06:98c0:3600::103",
-      "deviceId": "7af829c171be3588",
-      "userAgent": ""
     }
   ],
   "notifications": [
@@ -16043,7 +16019,7 @@
     "98a5c526-509f-4711-9bc5-f921ddf04d69": {
       "loggedIn": true,
       "time": 1785415438237,
-      "lastActive": 1785939539855
+      "lastActive": 1785579054882
     },
     "238aa82d-1ca7-4f8d-be5e-b4802ff6e17a": {
       "loggedIn": true,
@@ -16053,17 +16029,7 @@
     "186d2630-7793-4a8b-8a78-1a171fe68bde": {
       "loggedIn": true,
       "time": 1785875291384,
-      "lastActive": 1785876639678
-    },
-    "621101a8-23d0-4910-a5b2-5dd0f99a6e70": {
-      "loggedIn": true,
-      "time": 1785939543511,
-      "lastActive": 1785939543511
-    },
-    "4a758260-e8b3-4eda-ac76-075efa5e0412": {
-      "loggedIn": true,
-      "time": 1785939552849,
-      "lastActive": 1785939556207
+      "lastActive": 1785939568757
     }
   },
   "settings": {
