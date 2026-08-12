@@ -280,6 +280,13 @@
           "ip": "152.58.156.108",
           "firstSeen": "2026-08-12T08:21:36.872Z",
           "lastSeen": "2026-08-12T08:27:33.256Z"
+        },
+        {
+          "deviceId": "7af829c171be3588",
+          "deviceName": "Unknown",
+          "ip": "2a06:98c0:3600::103",
+          "firstSeen": "2026-08-12T11:48:18.634Z",
+          "lastSeen": "2026-08-12T11:48:18.646Z"
         }
       ],
       "blockedIPs": [],
@@ -21127,6 +21134,20 @@
       "userAgent": "GuzzleHttp/7",
       "success": false,
       "status": 502
+    },
+    {
+      "timestamp": "2026-08-12T11:48:40.343Z",
+      "apiKeyId": "0e01e765-45d6-44f6-8d92-402453463655",
+      "apiKey": "yuvraj",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "2a06:98c0:3600::103",
+      "deviceId": "7af829c171be3588",
+      "userAgent": "",
+      "success": true,
+      "status": 200
     }
   ],
   "notifications": [
