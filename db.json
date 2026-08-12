@@ -229,13 +229,6 @@
       "active": false,
       "devices": [
         {
-          "deviceId": "c407e7d17c058a63",
-          "deviceName": "Unknown",
-          "ip": "152.59.183.172",
-          "firstSeen": "2026-07-27T16:04:02.144Z",
-          "lastSeen": "2026-07-27T16:09:19.720Z"
-        },
-        {
           "deviceId": "9d64dd40614dd00b",
           "deviceName": "Unknown",
           "ip": "152.59.181.199",
@@ -21049,7 +21042,7 @@
     "00946f78-b862-4e73-a2d2-8ac032f456bb": {
       "loggedIn": true,
       "time": 1785940221582,
-      "lastActive": 1786522722294
+      "lastActive": 1786522724376
     }
   },
   "settings": {
