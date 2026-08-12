@@ -236,13 +236,6 @@
           "lastSeen": "2026-07-30T11:11:22.859Z"
         },
         {
-          "deviceId": "69c2b3258e7b33aa",
-          "deviceName": "Unknown",
-          "ip": "157.35.46.238",
-          "firstSeen": "2026-07-30T11:11:31.324Z",
-          "lastSeen": "2026-07-30T11:11:36.615Z"
-        },
-        {
           "deviceId": "f4d1d323f44c5306",
           "deviceName": "Unknown",
           "ip": "157.35.42.62",
@@ -21021,7 +21014,7 @@
     "00946f78-b862-4e73-a2d2-8ac032f456bb": {
       "loggedIn": true,
       "time": 1785940221582,
-      "lastActive": 1786522728864
+      "lastActive": 1786522730321
     }
   },
   "settings": {
