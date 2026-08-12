@@ -339,13 +339,6 @@
           "ip": "152.58.157.225",
           "firstSeen": "2026-08-03T13:31:41.046Z",
           "lastSeen": "2026-08-03T19:32:13.906Z"
-        },
-        {
-          "deviceId": "fa7806aafbac3b2c",
-          "deviceName": "Unknown",
-          "ip": "152.58.156.39",
-          "firstSeen": "2026-08-08T12:57:17.196Z",
-          "lastSeen": "2026-08-08T15:13:58.760Z"
         }
       ],
       "blockedIPs": [],
@@ -21056,7 +21049,7 @@
     "00946f78-b862-4e73-a2d2-8ac032f456bb": {
       "loggedIn": true,
       "time": 1785940221582,
-      "lastActive": 1786522706103
+      "lastActive": 1786522722294
     }
   },
   "settings": {
