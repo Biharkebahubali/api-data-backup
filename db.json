@@ -229,13 +229,6 @@
       "active": false,
       "devices": [
         {
-          "deviceId": "f4d1d323f44c5306",
-          "deviceName": "Unknown",
-          "ip": "157.35.42.62",
-          "firstSeen": "2026-07-30T15:53:27.923Z",
-          "lastSeen": "2026-07-30T15:54:05.067Z"
-        },
-        {
           "deviceId": "98951dd11ee0ba05",
           "deviceName": "Unknown",
           "ip": "152.58.157.230",
@@ -248,13 +241,6 @@
           "ip": "34.6.141.135",
           "firstSeen": "2026-07-31T11:11:31.204Z",
           "lastSeen": "2026-07-31T11:11:31.204Z"
-        },
-        {
-          "deviceId": "b4aa7133654dc485",
-          "deviceName": "Unknown",
-          "ip": "209.85.238.4",
-          "firstSeen": "2026-07-31T11:39:58.267Z",
-          "lastSeen": "2026-07-31T11:39:58.267Z"
         },
         {
           "deviceId": "847892c8b4c118ff",
@@ -20993,7 +20979,7 @@
     "00946f78-b862-4e73-a2d2-8ac032f456bb": {
       "loggedIn": true,
       "time": 1785940221582,
-      "lastActive": 1786522734574
+      "lastActive": 1786522736393
     }
   },
   "settings": {
