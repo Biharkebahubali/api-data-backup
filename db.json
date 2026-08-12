@@ -253,6 +253,23 @@
       "blockedIPs": [],
       "expiresAt": "2026-08-06T14:20:07.851Z",
       "createdAt": "2026-08-05T14:20:07.851Z"
+    },
+    {
+      "id": "0e01e765-45d6-44f6-8d92-402453463655",
+      "apiKey": "yuvraj",
+      "name": "Premium",
+      "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
+      "totalCredits": -1,
+      "creditsPerRequest": 0,
+      "usedCredits": 0,
+      "unlimited": true,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": null,
+      "createdAt": "2026-08-12T08:19:31.262Z"
     }
   ],
   "logs": [
@@ -20919,7 +20936,7 @@
     "00946f78-b862-4e73-a2d2-8ac032f456bb": {
       "loggedIn": true,
       "time": 1785940221582,
-      "lastActive": 1786522756160
+      "lastActive": 1786522771260
     }
   },
   "settings": {
