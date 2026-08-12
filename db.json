@@ -216,66 +216,6 @@
       "createdAt": "2026-07-25T14:10:37.811Z"
     },
     {
-      "id": "28f19070-db49-4386-88df-c322e9f9e1c0",
-      "apiKey": "yuvraj",
-      "name": "Premium",
-      "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
-      "totalCredits": -1,
-      "creditsPerRequest": 0,
-      "usedCredits": 0,
-      "unlimited": true,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": false,
-      "devices": [
-        {
-          "deviceId": "98951dd11ee0ba05",
-          "deviceName": "Unknown",
-          "ip": "152.58.157.230",
-          "firstSeen": "2026-07-31T11:08:51.226Z",
-          "lastSeen": "2026-07-31T17:39:42.875Z"
-        },
-        {
-          "deviceId": "042c828177c1bd54",
-          "deviceName": "Unknown",
-          "ip": "34.6.141.135",
-          "firstSeen": "2026-07-31T11:11:31.204Z",
-          "lastSeen": "2026-07-31T11:11:31.204Z"
-        },
-        {
-          "deviceId": "847892c8b4c118ff",
-          "deviceName": "Unknown",
-          "ip": "45.61.185.154",
-          "firstSeen": "2026-07-31T11:46:23.892Z",
-          "lastSeen": "2026-08-03T06:42:54.704Z"
-        },
-        {
-          "deviceId": "79fc2a594fdd0d2c",
-          "deviceName": "Unknown",
-          "ip": "152.58.157.79",
-          "firstSeen": "2026-08-01T13:26:51.381Z",
-          "lastSeen": "2026-08-01T18:14:41.514Z"
-        },
-        {
-          "deviceId": "7e4270f92f1fc417",
-          "deviceName": "Unknown",
-          "ip": "152.59.176.84",
-          "firstSeen": "2026-08-03T06:34:24.808Z",
-          "lastSeen": "2026-08-03T06:46:15.934Z"
-        },
-        {
-          "deviceId": "c88fda95326cd771",
-          "deviceName": "Unknown",
-          "ip": "152.58.157.225",
-          "firstSeen": "2026-08-03T13:31:41.046Z",
-          "lastSeen": "2026-08-03T19:32:13.906Z"
-        }
-      ],
-      "blockedIPs": [],
-      "expiresAt": "2026-08-11T15:58:40.243Z",
-      "createdAt": "2026-07-27T15:58:40.243Z"
-    },
-    {
       "id": "0c190936-a1af-479b-8609-a25cb5e3217f",
       "apiKey": "PRIME",
       "name": "DEMO PLAN",
@@ -20979,7 +20919,7 @@
     "00946f78-b862-4e73-a2d2-8ac032f456bb": {
       "loggedIn": true,
       "time": 1785940221582,
-      "lastActive": 1786522744278
+      "lastActive": 1786522753457
     }
   },
   "settings": {
