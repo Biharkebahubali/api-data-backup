@@ -148,7 +148,7 @@
           "deviceName": "Unknown",
           "ip": "103.191.208.201",
           "firstSeen": "2026-07-25T22:11:41.869Z",
-          "lastSeen": "2026-08-11T20:15:52.676Z"
+          "lastSeen": "2026-08-12T01:22:31.917Z"
         },
         {
           "deviceId": "0fc74f60b0413903",
@@ -20784,6 +20784,20 @@
       "userAgent": "GuzzleHttp/7",
       "success": true,
       "status": 200
+    },
+    {
+      "timestamp": "2026-08-12T01:22:43.236Z",
+      "apiKeyId": "164fd7af-75a5-477c-90e9-0ec155bf2ba0",
+      "apiKey": "bihari",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "103.191.208.201",
+      "deviceId": "6e0808ec7e3fd65d",
+      "userAgent": "GuzzleHttp/7",
+      "success": false,
+      "status": 502
     }
   ],
   "notifications": [
@@ -20804,16 +20818,6 @@
       "loggedIn": true,
       "time": 1785415438237,
       "lastActive": 1785939539855
-    },
-    "238aa82d-1ca7-4f8d-be5e-b4802ff6e17a": {
-      "loggedIn": true,
-      "time": 1785875279979,
-      "lastActive": 1785875279979
-    },
-    "186d2630-7793-4a8b-8a78-1a171fe68bde": {
-      "loggedIn": true,
-      "time": 1785875291384,
-      "lastActive": 1785876639678
     },
     "621101a8-23d0-4910-a5b2-5dd0f99a6e70": {
       "loggedIn": true,
