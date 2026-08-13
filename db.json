@@ -253,6 +253,23 @@
       "blockedIPs": [],
       "expiresAt": null,
       "createdAt": "2026-08-12T08:19:31.262Z"
+    },
+    {
+      "id": "a6bc9ee0-0786-48ab-aaae-946239bde9cf",
+      "apiKey": "PRIME",
+      "name": "Premium",
+      "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
+      "totalCredits": 5,
+      "creditsPerRequest": 1,
+      "usedCredits": 0,
+      "unlimited": false,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "expiresAt": "2026-08-14T15:55:20.529Z",
+      "createdAt": "2026-08-13T15:55:20.529Z"
     }
   ],
   "logs": [
@@ -21894,7 +21911,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1786636513548
+      "lastActive": 1786636520528
     }
   },
   "settings": {
