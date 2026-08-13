@@ -261,7 +261,7 @@
       "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
       "totalCredits": 5,
       "creditsPerRequest": 1,
-      "usedCredits": 2,
+      "usedCredits": 3,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": false,
@@ -279,7 +279,7 @@
           "deviceName": "Unknown",
           "ip": "157.35.27.251",
           "firstSeen": "2026-08-13T15:56:06.029Z",
-          "lastSeen": "2026-08-13T15:56:06.029Z"
+          "lastSeen": "2026-08-13T15:57:42.121Z"
         }
       ],
       "blockedIPs": [],
@@ -21925,6 +21925,20 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36",
       "success": true,
       "status": 200
+    },
+    {
+      "timestamp": "2026-08-13T15:57:42.831Z",
+      "apiKeyId": "a6bc9ee0-0786-48ab-aaae-946239bde9cf",
+      "apiKey": "PRIME",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "2",
+      "ip": "157.35.27.251",
+      "deviceId": "cfe08b9cca2e5753",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36",
+      "success": true,
+      "status": 200
     }
   ],
   "notifications": [
@@ -21954,7 +21968,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1786636620341
+      "lastActive": 1786636622997
     }
   },
   "settings": {
