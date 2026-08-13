@@ -264,7 +264,7 @@
       "usedCredits": 2,
       "unlimited": false,
       "maxDevices": 999,
-      "unlimitedDevices": true,
+      "unlimitedDevices": false,
       "active": true,
       "devices": [
         {
@@ -283,7 +283,7 @@
         }
       ],
       "blockedIPs": [],
-      "expiresAt": "2026-08-14T15:55:20.529Z",
+      "expiresAt": "2026-08-13T16:00:00.000Z",
       "createdAt": "2026-08-13T15:55:20.529Z"
     }
   ],
@@ -21954,7 +21954,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1786636596262
+      "lastActive": 1786636620341
     }
   },
   "settings": {
