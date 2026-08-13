@@ -216,45 +216,6 @@
       "createdAt": "2026-07-25T14:10:37.811Z"
     },
     {
-      "id": "0c190936-a1af-479b-8609-a25cb5e3217f",
-      "apiKey": "PRIME",
-      "name": "DEMO PLAN",
-      "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
-      "totalCredits": 10,
-      "creditsPerRequest": 1,
-      "usedCredits": 4,
-      "unlimited": false,
-      "maxDevices": 999,
-      "unlimitedDevices": true,
-      "active": false,
-      "devices": [
-        {
-          "deviceId": "8fdaa175bbb91660",
-          "deviceName": "Unknown",
-          "ip": "149.154.161.220",
-          "firstSeen": "2026-08-05T14:20:38.275Z",
-          "lastSeen": "2026-08-05T14:20:38.275Z"
-        },
-        {
-          "deviceId": "1110c94717f5ea6b",
-          "deviceName": "Unknown",
-          "ip": "157.35.26.8",
-          "firstSeen": "2026-08-05T14:20:39.710Z",
-          "lastSeen": "2026-08-05T14:20:39.710Z"
-        },
-        {
-          "deviceId": "50e95a2bfee913db",
-          "deviceName": "Unknown",
-          "ip": "185.184.192.229",
-          "firstSeen": "2026-08-05T14:21:59.670Z",
-          "lastSeen": "2026-08-05T14:22:29.878Z"
-        }
-      ],
-      "blockedIPs": [],
-      "expiresAt": "2026-08-06T14:20:07.851Z",
-      "createdAt": "2026-08-05T14:20:07.851Z"
-    },
-    {
       "id": "0e01e765-45d6-44f6-8d92-402453463655",
       "apiKey": "yuvraj",
       "name": "Premium",
@@ -21933,7 +21894,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1786636506836
+      "lastActive": 1786636511292
     }
   },
   "settings": {
