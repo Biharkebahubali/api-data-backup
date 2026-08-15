@@ -134,7 +134,7 @@
           "deviceName": "Unknown",
           "ip": "95.217.151.27",
           "firstSeen": "2026-07-25T18:42:43.917Z",
-          "lastSeen": "2026-08-15T08:03:08.740Z"
+          "lastSeen": "2026-08-15T10:50:41.872Z"
         },
         {
           "deviceId": "f3baa8cbc8e98471",
@@ -22709,6 +22709,20 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "success": false,
       "status": 400
+    },
+    {
+      "timestamp": "2026-08-15T10:51:11.886Z",
+      "apiKeyId": "164fd7af-75a5-477c-90e9-0ec155bf2ba0",
+      "apiKey": "bihari",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "95.217.151.27",
+      "deviceId": "6312a8d4686ac641",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "success": false,
+      "status": 502
     }
   ],
   "notifications": [
