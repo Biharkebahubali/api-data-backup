@@ -293,7 +293,7 @@
       "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
       "totalCredits": 10,
       "creditsPerRequest": 1,
-      "usedCredits": 1,
+      "usedCredits": 2,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
@@ -305,6 +305,13 @@
           "ip": "157.35.26.219",
           "firstSeen": "2026-08-16T05:54:09.638Z",
           "lastSeen": "2026-08-16T05:54:09.638Z"
+        },
+        {
+          "deviceId": "71144a85a3e72fc7",
+          "deviceName": "Unknown",
+          "ip": "152.59.37.192",
+          "firstSeen": "2026-08-16T05:55:02.604Z",
+          "lastSeen": "2026-08-16T05:55:02.604Z"
         }
       ],
       "blockedIPs": [],
@@ -23124,6 +23131,20 @@
       "ip": "157.35.26.219",
       "deviceId": "e75b1bac371e8f5e",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "success": true,
+      "status": 200
+    },
+    {
+      "timestamp": "2026-08-16T05:55:02.984Z",
+      "apiKeyId": "7be73a64-2228-4484-bac9-0c6c6af72cb7",
+      "apiKey": "Folder",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "8",
+      "ip": "152.59.37.192",
+      "deviceId": "71144a85a3e72fc7",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
       "success": true,
       "status": 200
     }
