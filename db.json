@@ -298,7 +298,22 @@
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "e75b1bac371e8f5e",
+          "deviceName": "Unknown",
+          "ip": "157.35.26.219",
+          "firstSeen": "2026-08-16T05:52:25.013Z",
+          "lastSeen": "2026-08-16T05:52:25.013Z"
+        },
+        {
+          "deviceId": "71144a85a3e72fc7",
+          "deviceName": "Unknown",
+          "ip": "152.59.37.192",
+          "firstSeen": "2026-08-16T05:52:30.590Z",
+          "lastSeen": "2026-08-16T05:52:30.590Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": "2026-08-17T05:50:49.527Z",
       "createdAt": "2026-08-16T05:50:49.528Z"
@@ -23062,6 +23077,20 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "success": true,
       "status": 200
+    },
+    {
+      "timestamp": "2026-08-16T05:52:55.020Z",
+      "apiKeyId": "557d251e-e6c8-48c2-a755-b5d478bd2ee2",
+      "apiKey": "DEMO FOLDER",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "1000",
+      "ip": "157.35.26.219",
+      "deviceId": "e75b1bac371e8f5e",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "success": false,
+      "status": 502
     }
   ],
   "notifications": [
@@ -23091,7 +23120,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1786859449525
+      "lastActive": 1786859451961
     }
   },
   "settings": {
