@@ -293,7 +293,7 @@
       "realApiId": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
       "totalCredits": 10,
       "creditsPerRequest": 1,
-      "usedCredits": 4,
+      "usedCredits": 5,
       "unlimited": false,
       "maxDevices": 999,
       "unlimitedDevices": true,
@@ -312,6 +312,13 @@
           "ip": "152.59.37.192",
           "firstSeen": "2026-08-16T05:55:02.604Z",
           "lastSeen": "2026-08-16T05:55:37.713Z"
+        },
+        {
+          "deviceId": "a84f827c7033751a",
+          "deviceName": "Unknown",
+          "ip": "149.154.161.216",
+          "firstSeen": "2026-08-16T05:56:00.427Z",
+          "lastSeen": "2026-08-16T05:56:00.427Z"
         }
       ],
       "blockedIPs": [],
@@ -23173,6 +23180,20 @@
       "ip": "152.59.37.192",
       "deviceId": "71144a85a3e72fc7",
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "success": true,
+      "status": 200
+    },
+    {
+      "timestamp": "2026-08-16T05:56:01.128Z",
+      "apiKeyId": "7be73a64-2228-4484-bac9-0c6c6af72cb7",
+      "apiKey": "Folder",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 1,
+      "remainingCredits": "5",
+      "ip": "149.154.161.216",
+      "deviceId": "a84f827c7033751a",
+      "userAgent": "TelegramBot (like TwitterBot)",
       "success": true,
       "status": 200
     }
