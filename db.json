@@ -1,14 +1,6 @@
 {
   "realAPIs": [
     {
-      "id": "bbc4ea46-574a-4540-ba55-e3cfda505de9",
-      "name": "Telegram API\"",
-      "baseUrl": "https://infoapi.animehub.network/api/tgnum",
-      "authHeader": "",
-      "queryParams": "id=",
-      "createdAt": "2026-07-25T12:47:10.372Z"
-    },
-    {
       "id": "573b35dd-ace1-47c0-9d13-71d421bdf582",
       "name": "Search API",
       "baseUrl": "https://infoapi.animehub.network/api/search",
@@ -24528,7 +24520,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1787033356444
+      "lastActive": 1787033358511
     }
   },
   "settings": {
