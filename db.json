@@ -1,14 +1,6 @@
 {
   "realAPIs": [
     {
-      "id": "9b4c5437-c740-4d28-a9f4-708f0f3428d3",
-      "name": "Aadhar API",
-      "baseUrl": "https://infoapi.animehub.network/api/aadhar",
-      "authHeader": "",
-      "queryParams": "aadhar=",
-      "createdAt": "2026-07-25T12:46:24.806Z"
-    },
-    {
       "id": "bbc4ea46-574a-4540-ba55-e3cfda505de9",
       "name": "Telegram API\"",
       "baseUrl": "https://infoapi.animehub.network/api/tgnum",
@@ -24536,7 +24528,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1787033354100
+      "lastActive": 1787033356444
     }
   },
   "settings": {
