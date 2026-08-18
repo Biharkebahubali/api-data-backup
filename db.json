@@ -33,14 +33,6 @@
       "createdAt": "2026-07-25T12:48:27.499Z"
     },
     {
-      "id": "7f29ae43-c8d4-435a-94ba-a12312f07516",
-      "name": "Health API",
-      "baseUrl": "https://infoapi.animehub.network/api/health",
-      "authHeader": "",
-      "queryParams": "",
-      "createdAt": "2026-07-25T12:48:57.587Z"
-    },
-    {
       "id": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
       "name": "Number Information",
       "baseUrl": "https://infoapi.animehub.network/api/numinfo",
@@ -24544,7 +24536,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1787033334624
+      "lastActive": 1787033354100
     }
   },
   "settings": {
