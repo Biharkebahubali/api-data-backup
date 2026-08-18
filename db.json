@@ -24535,7 +24535,7 @@
       "title": "DARK SK",
       "message": "Kya brother ",
       "timestamp": "2026-07-16T08:04:31.723Z",
-      "read": false
+      "read": true
     }
   ],
   "payments": [],
@@ -24554,7 +24554,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1787033317650
+      "lastActive": 1787033319914
     }
   },
   "settings": {
