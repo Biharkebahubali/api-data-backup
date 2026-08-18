@@ -1,14 +1,6 @@
 {
   "realAPIs": [
     {
-      "id": "573b35dd-ace1-47c0-9d13-71d421bdf582",
-      "name": "Search API",
-      "baseUrl": "https://infoapi.animehub.network/api/search",
-      "authHeader": "",
-      "queryParams": "q=",
-      "createdAt": "2026-07-25T12:47:52.038Z"
-    },
-    {
       "id": "0d2f66ba-92a6-47d7-90e5-28df6c11ed12",
       "name": "Stats API",
       "baseUrl": "https://infoapi.animehub.network/api/stats",
@@ -24520,7 +24512,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1787033358511
+      "lastActive": 1787033361159
     }
   },
   "settings": {
