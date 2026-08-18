@@ -1,14 +1,6 @@
 {
   "realAPIs": [
     {
-      "id": "bd24439a-e8d0-43fc-be37-ac43ccf63a4b",
-      "name": "Number Information",
-      "baseUrl": "https://infoapi.animehub.network/api/numinfo",
-      "authHeader": "",
-      "queryParams": "num=",
-      "createdAt": "2026-07-25T13:33:45.099Z"
-    },
-    {
       "id": "48678f48-5ff5-4907-8409-44cc25195acd",
       "name": "SR DARK",
       "baseUrl": "https://reseller-host.vercel.app/api/rc",
@@ -24504,7 +24496,7 @@
     "57723835-f7dd-4bb1-aa04-23e2c9658611": {
       "loggedIn": true,
       "time": 1786636469036,
-      "lastActive": 1787033365390
+      "lastActive": 1787033367982
     }
   },
   "settings": {
