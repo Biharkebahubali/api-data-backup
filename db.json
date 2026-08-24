@@ -213,6 +213,24 @@
       "blockedIPs": [],
       "expiresAt": null,
       "createdAt": "2026-08-12T08:19:31.262Z"
+    },
+    {
+      "id": "5f7753ed-e165-4f07-bc2a-c5aa1a1152e6",
+      "apiKey": "vikram",
+      "name": "Premium",
+      "realApiId": "6f0ee09d-d488-4839-a8e5-9a70b6b0d3ad",
+      "totalCredits": -1,
+      "creditsPerRequest": 0,
+      "usedCredits": 0,
+      "unlimited": true,
+      "maxDevices": 999,
+      "unlimitedDevices": true,
+      "active": true,
+      "devices": [],
+      "blockedIPs": [],
+      "allowedIPs": [],
+      "expiresAt": null,
+      "createdAt": "2026-08-24T23:00:39.099Z"
     }
   ],
   "logs": [
@@ -24514,7 +24532,7 @@
     "7b1fdd03-0994-43b7-a106-320662083cd5": {
       "loggedIn": true,
       "time": 1787612349247,
-      "lastActive": 1787612399148
+      "lastActive": 1787612439098
     }
   },
   "settings": {
