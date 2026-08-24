@@ -239,7 +239,7 @@
           "deviceName": "Unknown",
           "ip": "157.35.27.104",
           "firstSeen": "2026-08-24T23:01:59.434Z",
-          "lastSeen": "2026-08-24T23:01:59.434Z"
+          "lastSeen": "2026-08-24T23:03:08.749Z"
         }
       ],
       "blockedIPs": [],
@@ -249,20 +249,6 @@
     }
   ],
   "logs": [
-    {
-      "timestamp": "2026-08-07T10:58:56.392Z",
-      "apiKeyId": "164fd7af-75a5-477c-90e9-0ec155bf2ba0",
-      "apiKey": "bihari",
-      "method": "GET",
-      "path": "",
-      "creditsUsed": 0,
-      "remainingCredits": "Unlimited",
-      "ip": "95.217.151.27",
-      "deviceId": "6312a8d4686ac641",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "success": true,
-      "status": 200
-    },
     {
       "timestamp": "2026-08-07T10:59:37.146Z",
       "apiKeyId": "164fd7af-75a5-477c-90e9-0ec155bf2ba0",
@@ -7249,6 +7235,21 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "success": false,
       "status": 401,
+      "cached": false
+    },
+    {
+      "timestamp": "2026-08-24T23:03:09.343Z",
+      "apiKeyId": "5f7753ed-e165-4f07-bc2a-c5aa1a1152e6",
+      "apiKey": "vikram",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "157.35.27.104",
+      "deviceId": "b7ae5a3e232bb864",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "success": true,
+      "status": 200,
       "cached": false
     }
   ],
