@@ -246,7 +246,7 @@
           "deviceName": "Unknown",
           "ip": "157.35.46.103",
           "firstSeen": "2026-08-25T08:35:25.727Z",
-          "lastSeen": "2026-08-25T08:35:25.727Z"
+          "lastSeen": "2026-08-25T08:35:28.714Z"
         }
       ],
       "blockedIPs": [],
@@ -256,20 +256,6 @@
     }
   ],
   "logs": [
-    {
-      "timestamp": "2026-08-07T12:36:34.821Z",
-      "apiKeyId": "164fd7af-75a5-477c-90e9-0ec155bf2ba0",
-      "apiKey": "bihari",
-      "method": "GET",
-      "path": "",
-      "creditsUsed": 0,
-      "remainingCredits": "Unlimited",
-      "ip": "103.191.208.201",
-      "deviceId": "6e0808ec7e3fd65d",
-      "userAgent": "GuzzleHttp/7",
-      "success": false,
-      "status": 502
-    },
     {
       "timestamp": "2026-08-07T12:36:36.989Z",
       "apiKeyId": "164fd7af-75a5-477c-90e9-0ec155bf2ba0",
@@ -7259,6 +7245,21 @@
       "success": true,
       "status": 200,
       "cached": false
+    },
+    {
+      "timestamp": "2026-08-25T08:35:28.714Z",
+      "apiKeyId": "5f7753ed-e165-4f07-bc2a-c5aa1a1152e6",
+      "apiKey": "vikram",
+      "method": "HEAD",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "157.35.46.103",
+      "deviceId": "08be3c7c06f3b4f3",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "success": true,
+      "status": 200,
+      "cached": true
     }
   ],
   "notifications": [],
