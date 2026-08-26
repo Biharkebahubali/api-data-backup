@@ -246,7 +246,7 @@
           "deviceName": "Unknown",
           "ip": "95.217.151.27",
           "firstSeen": "2026-08-26T06:44:31.202Z",
-          "lastSeen": "2026-08-26T07:03:20.640Z"
+          "lastSeen": "2026-08-26T07:03:42.041Z"
         },
         {
           "deviceId": "8948c25277f5f291",
@@ -263,20 +263,6 @@
     }
   ],
   "logs": [
-    {
-      "timestamp": "2026-08-07T16:28:42.530Z",
-      "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
-      "apiKey": "yuvraj",
-      "method": "GET",
-      "path": "",
-      "creditsUsed": 0,
-      "remainingCredits": "Unlimited",
-      "ip": "2a06:98c0:3600::103",
-      "deviceId": "7af829c171be3588",
-      "userAgent": "",
-      "success": false,
-      "status": 502
-    },
     {
       "timestamp": "2026-08-07T16:28:54.498Z",
       "apiKeyId": "28f19070-db49-4386-88df-c322e9f9e1c0",
@@ -7265,6 +7251,21 @@
     },
     {
       "timestamp": "2026-08-26T07:03:22.388Z",
+      "apiKeyId": "81a0b7ac-5bf3-4ced-820e-db01c25fd46e",
+      "apiKey": "vikram",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "95.217.151.27",
+      "deviceId": "6312a8d4686ac641",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "success": true,
+      "status": 200,
+      "cached": false
+    },
+    {
+      "timestamp": "2026-08-26T07:03:43.100Z",
       "apiKeyId": "81a0b7ac-5bf3-4ced-820e-db01c25fd46e",
       "apiKey": "vikram",
       "method": "GET",
