@@ -226,7 +226,15 @@
       "maxDevices": 999,
       "unlimitedDevices": true,
       "active": true,
-      "devices": [],
+      "devices": [
+        {
+          "deviceId": "9001960903a7acfd",
+          "deviceName": "Unknown",
+          "ip": "10.198.165.2",
+          "firstSeen": "2026-08-26T14:22:05.398Z",
+          "lastSeen": "2026-08-26T14:22:05.398Z"
+        }
+      ],
       "blockedIPs": [],
       "expiresAt": null,
       "createdAt": "2026-08-26T14:21:56.649Z"
@@ -7319,6 +7327,20 @@
       "ip": "10.199.4.130",
       "deviceId": "8c49ebe5e3e27cb3",
       "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0",
+      "success": true,
+      "status": 200
+    },
+    {
+      "timestamp": "2026-08-26T14:22:05.653Z",
+      "apiKeyId": "ff22151f-b1aa-41f5-bd9a-67dcb71ba15d",
+      "apiKey": "vikram",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "10.198.165.2",
+      "deviceId": "9001960903a7acfd",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "success": true,
       "status": 200
     }
