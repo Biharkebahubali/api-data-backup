@@ -23,14 +23,6 @@
       "authHeader": "",
       "queryParams": "number=",
       "createdAt": "2026-08-04T20:39:55.542Z"
-    },
-    {
-      "id": "6f0ee09d-d488-4839-a8e5-9a70b6b0d3ad",
-      "name": "Number Information",
-      "baseUrl": "https://shareware-logs-laptop-mix.trycloudflare.com/search/number",
-      "authHeader": "",
-      "queryParams": "number=9835788269&key=htk_live_demo123456",
-      "createdAt": "2026-08-24T22:59:57.162Z"
     }
   ],
   "apiKeys": [
@@ -7285,7 +7277,7 @@
     "7b1fdd03-0994-43b7-a106-320662083cd5": {
       "loggedIn": true,
       "time": 1787612349247,
-      "lastActive": 1787724348481
+      "lastActive": 1787724358688
     }
   },
   "settings": {
