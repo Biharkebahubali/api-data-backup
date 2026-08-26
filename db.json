@@ -247,6 +247,13 @@
           "ip": "10.199.4.130",
           "firstSeen": "2026-08-26T14:33:20.206Z",
           "lastSeen": "2026-08-26T14:33:20.206Z"
+        },
+        {
+          "deviceId": "81935d4d69ef89f4",
+          "deviceName": "Unknown",
+          "ip": "10.199.4.130",
+          "firstSeen": "2026-08-26T14:33:23.055Z",
+          "lastSeen": "2026-08-26T14:33:23.055Z"
         }
       ],
       "blockedIPs": [],
@@ -7453,6 +7460,20 @@
       "ip": "10.199.4.130",
       "deviceId": "1cb2d87b828576a1",
       "userAgent": "TelegramBot (like TwitterBot)",
+      "success": true,
+      "status": 200
+    },
+    {
+      "timestamp": "2026-08-26T14:33:23.169Z",
+      "apiKeyId": "b8559017-3cd6-4e48-bd40-5c2d4e0e1646",
+      "apiKey": "vikram",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "10.199.4.130",
+      "deviceId": "81935d4d69ef89f4",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "success": true,
       "status": 200
     }
