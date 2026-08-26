@@ -232,7 +232,7 @@
           "deviceName": "Unknown",
           "ip": "10.197.185.255",
           "firstSeen": "2026-08-26T14:29:11.887Z",
-          "lastSeen": "2026-08-26T14:31:47.254Z"
+          "lastSeen": "2026-08-26T14:31:59.024Z"
         },
         {
           "deviceId": "43f5f6b75fc66013",
@@ -7409,6 +7409,20 @@
     },
     {
       "timestamp": "2026-08-26T14:31:47.378Z",
+      "apiKeyId": "b8559017-3cd6-4e48-bd40-5c2d4e0e1646",
+      "apiKey": "vikram",
+      "method": "GET",
+      "path": "",
+      "creditsUsed": 0,
+      "remainingCredits": "Unlimited",
+      "ip": "10.197.185.255",
+      "deviceId": "ff2ce91d8e2921c2",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "success": true,
+      "status": 200
+    },
+    {
+      "timestamp": "2026-08-26T14:31:59.182Z",
       "apiKeyId": "b8559017-3cd6-4e48-bd40-5c2d4e0e1646",
       "apiKey": "vikram",
       "method": "GET",
