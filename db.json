@@ -7481,7 +7481,13 @@
   "notifications": [],
   "payments": [],
   "paymentRequests": [],
-  "sessions": {},
+  "sessions": {
+    "498c766c-4da7-4dda-81a6-68cad89d6579": {
+      "loggedIn": true,
+      "time": 1788710281687,
+      "lastActive": 1788710281687
+    }
+  },
   "settings": {
     "owner": "@biharpleasehelpme_bot",
     "ownerContact": "@code_breaker",
