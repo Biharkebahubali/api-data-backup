@@ -7482,11 +7482,6 @@
   "payments": [],
   "paymentRequests": [],
   "sessions": {
-    "498c766c-4da7-4dda-81a6-68cad89d6579": {
-      "loggedIn": true,
-      "time": 1788710281687,
-      "lastActive": 1788710281687
-    },
     "d574719d-ca07-420a-b7a7-a99f0fafa496": {
       "loggedIn": true,
       "time": 1788710385192,
